@@ -161,7 +161,7 @@ ol {
 	border: none;
 	outline: none;
 	background-color: #2E7D32;
-	color: #202020;
+	color: #FFEBEE;
 	padding: 15px 25px;
 	text-align: center;
 	font-size: 16px;
@@ -184,7 +184,7 @@ nav {
 .button {
 	background-color: #2E7D32;
 	border: none;
-	color: #202020;
+	color: #FFEBEE;
 	padding: 15px 25px;
 	text-align: center;
 	font-size: 16px;
@@ -197,7 +197,7 @@ nav {
 
 .navbutton {
 	font-family:'FiraSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color: #202020;
+	background-color: #FFEBEE;
 	border: none;
 	color: #2E7D32;
 	padding: 8px 15px;
@@ -208,13 +208,13 @@ nav {
 
 .navbutton:hover {
 	background-color: #43A047;
-	color: #202020
+	color: #FFEBEE
 }
 
 .navbuttona {
 	background-color: #2E7D32;
 	border: none;
-	color: #202020;
+	color: #FFEBEE;
 	padding: 8px 15px;
 	text-align: center;
 	font-size: 16px;
@@ -226,7 +226,7 @@ nav {
 }
 
 .dropbtn {
-	background-color: #202020;
+	background-color: #FFEBEE;
 	border: none;
 	color: #2E7D32;
 	padding: 8px 15px;
@@ -243,7 +243,7 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #202020;
+  background-color: #FFEBEE;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -260,7 +260,7 @@ nav {
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #43A047; color: #202020} 
+.dropdown:hover .dropbtn {background-color: #43A047; color: #FFEBEE} 
 
 
 #Menu {
@@ -269,7 +269,7 @@ nav {
 	position: sticky; 
 	top: 0;
 	padding:2px 0 2px 0; 
-	background-color: #202020;
+	background-color: #FFEBEE;
 	z-index: 99;
 }
 
@@ -291,7 +291,7 @@ body {
  font:14px/1.5 "FiraSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
  color:#f0e7d5;
  font-weight:normal;
- background-color: #202020;
+ background-color: #FFEBEE;
  background-attachment:fixed !important
 }
 
