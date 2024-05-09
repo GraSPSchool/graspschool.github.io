@@ -1,5 +1,7 @@
 # Organizers
 
+## Raul Abramo
+
 ## [Níckolas de Aguiar Alves](https://alves-nickolas.github.io/)
 
   <div align="center">
@@ -26,4 +28,4 @@ Hey Folks! I'm Caio, I'm currently pursuing my undergraduate degree at the [Fede
 
 ## Acknowledgments 
 
-We are grateful to Rafael Grossi e Fonseca (DFMA-IFUSP) and Prof. Luis Raul Weber Abramo (DFMA-IFUSP) for helping us with the school organization.
+We are grateful to Rafael Grossi e Fonseca (DFMA-IFUSP) for helping us with the school organization.
