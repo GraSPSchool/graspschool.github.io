@@ -28,4 +28,4 @@ Hey Folks! I'm Caio, I'm currently pursuing my undergraduate degree at the [Fede
 
 ## Acknowledgments 
 
-We are grateful to Rafael Grossi e Fonseca (DFMA-IFUSP) for helping us with the school organization.
+We are grateful to Rafael Grossi e Fonseca (IFUSP), Prof. Daniel Cornejo (IFUSP), and the Culture and Extension Comission at the Institute of Physics at the University of São Paulo (CCEx–IFUSP) for helping us with the school organization.
