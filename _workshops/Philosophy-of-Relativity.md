@@ -1,0 +1,25 @@
+---
+title: Philosophy of Relativity
+shortname: Philosophy of Relativity
+schedule: 
+lecturer: Dr. Antonio Ferrero, PhD (Utrecht University)
+layout: workshop1
+eventcode: grasp1
+---
+
+**Lecturer:** Dr. Antonio Ferrero, PhD (Utrecht University)
+
+**Schedule:** 
+
+**Workload:** 6h
+
+**Topics:** 1. Newtonian Mechanics: basics of Newtonian mechanics; absolute time, space, and motion; inertial frames and fictitious forces; Newton–Cartan theory. 2. Special Relativity: basics of special relativity; relativity of simultaneity; Bell’s approach; geometrical vs. dynamical. 3. General Relativity: basics of general relativity; coordinate (in)dependence; the equivalence principle; alternative theories.
+
+**Pre-requisites:** A standard introductory course in general relativity.
+
+**Bibliography:**
+
+1. Roberto Torreti. *Relativity and Geometry*. New York, NY: Dover, 1983.
+2. Harvey R. Brown. *Physical Relativity: Space-Time Structure from a Dynamical Perspective*. Oxford: Clarendon Press, 2007.
+3. Robert DiSalle. [*Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*](https://doi.org/10.1017/CBO9780511487361). Cambridge: Cambridge University Press, 2006. 
+4. David Malament. *Topics in the Foundations of General Relativity and Newtonian Gravitation Theory*. Chicago Lectures in Physics. Chicago, IL: The University of Chicago Press, 2012.
