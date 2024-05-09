@@ -19,8 +19,6 @@ eventcode: grasp1
 
 **Bibliography:**
 
-These are the main references for the course. A complete list of references is available in the lecture notes.
-
 1. Valeria Ferrari, Leonardo Gualtieri e Paolo Pani. [*General Relativity and Its Applications: Black Holes, Compact Stars and Gravitational Waves*](https://doi.org/10.1201/9780429491405). Boca Raton, FL: CRC Press, 2020. doi: 10.1201/9780429491405.
 2. Sean Carroll. *Spacetime and Geometry: An Introduction to General Relativity*. Harlow: Pearson, 2014.
 3. Michele Maggiore. *Gravitational Waves. Vol. 1: Theory and Experiments*. Oxford: Oxford University Press, 2008.
