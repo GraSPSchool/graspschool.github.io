@@ -15,7 +15,7 @@ eventcode: grasp1
 
 **Topics:** Symmetries and groups in fundamental physics. Lorentz and Poincaré groups. Maps between manifolds and diffeomorphisms. Lie derivative. Conformal infinity in Minkowski spacetime. Asymptotically flat spacetimes. Carrollian structure of conformal infinity. Symmetries of conformal infinity and the BMS group. Applications.
 
-**Pre-requisites:** A standard undergraduate course in general relativity.
+**Pre-requisites:** A standard introductory course in general relativity.
 
 **Bibliography:**
 
