@@ -21,11 +21,11 @@
       <div>
         <nav id="Menu">
           <a href="{{ site.url }}/2024"><button class="navbutton">Home</button></a>
-          <div class="dropdown"><a href="{{ site.url }}/2024/workshops"><button class="dropbtn">Minicourses</button></a>
+          <div class="dropdown"><a href="{{ site.url }}/2024/minicourses"><button class="dropbtn">Minicourses</button></a>
             <div class="dropdown-content">
-              {% for workshop in site.workshops %}
-                {% if workshop.eventcode contains 'grasp1' %}
-                  <a href="{{ workshop.url }}">{{ workshop.shortname | default: workshop.title }}</a>
+              {% for minicourse in site.minicourses %}
+                {% if minicourse.eventcode contains 'grasp1' %}
+                  <a href="{{ minicourse.url }}">{{ minicourse.shortname | default: minicourse.title }}</a>
                 {% endif %}
               {% endfor %}
             </div>
