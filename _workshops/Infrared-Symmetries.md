@@ -13,7 +13,7 @@ eventcode: grasp1
 
 **Workload:** 10h
 
-**Topics:** Exemplos e relevância da noção de simetrias em Física. Simetria esférica. Noção de grupo e exemplos de grupos. Tensores e representações, com ênfase particular no grupo de Poincaré e seus subgrupos e nos grupos SU(N). Aplicações em Física, especialmente em Relatividade, Mecânica Quântica e Física de Partículas.
+**Topics:** Symmetries and groups in fundamental physics. Lorentz and Poincaré groups. Maps between manifolds and diffeomorphisms. Lie derivative. Conformal infinity in Minkowski spacetime. Asymptotically flat spacetimes. Carrollian structure of conformal infinity. Symmetries of conformal infinity and the BMS group. Applications.
 
 **Pre-requisites:** A standard undergraduate course in general relativity.
 
