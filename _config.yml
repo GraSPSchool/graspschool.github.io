@@ -14,9 +14,10 @@ collections:
 defaults:
   - scope:
       path: "2024"
-      values:
+      type: "pages"
+    values:
       layout: "grasp1"      
   - scope:
       path: ""
-      values:
+    values:
       layout: "default"
