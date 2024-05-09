@@ -19,7 +19,6 @@ defaults:
       layout: "workshop1"
   - scope:
       path: "2024"
-      type: "pages"
       values:
       layout: "grasp1"      
   - scope:
