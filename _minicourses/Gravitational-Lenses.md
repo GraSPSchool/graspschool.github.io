@@ -1,7 +1,7 @@
 ---
 title: Gravitational Lenses
 shortname: Gravitational Lenses
-schedule: 
+schedule: July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC)
 lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 layout: workshop1
 eventcode: grasp1
@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 
-**Schedule:** 
+**Schedule:** July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC). One must attend at least 4 classes to receive a certificate.
 
 **Workload:** 10h
 
