@@ -14,7 +14,7 @@
 * **Infrared Symmetries of General Relativity**: July 15 to July 19 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
 * **Philosophy of Relativity**: July 15 to July 17 (3 classes), all at 14h00 (BRT)/17h00 (UTC)
 
-| BRT   | UTC   | Course 1                 | Course2        |
+| BRT   | UTC   | Course 1                 | Course 2       |
 |-------|-------|--------------------------|----------------|
 | 10h00 | 13h00 | Gravitational Lenses     |                |
 | 14h00 | 17h00 | Philosophy of Relativity | Early Universe |
