@@ -1,7 +1,7 @@
 ---
 title: The Physics of the Early Universe
 shortname: Early Universe
-schedule: July 15 to July 19 (5 classes), all at 10h00 (BRT)/10h00 (UTC)
+schedule: July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC)
 lecturer: Rosa Laura Lechuga Solis, MSc (ICN-UNAM, México)
 layout: workshop1
 eventcode: grasp1
@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Rosa Laura Lechuga Solis, MSc (ICN-UNAM, México)
 
-**Schedule:** July 15 to July 19 (5 classes), all at 10h00 (BRT)/10h00 (UTC). One must attend at least 4 classes to receive a certificate.
+**Schedule:** July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC). One must attend at least 4 classes to receive a certificate.
 
 **Workload:** 10h
 
