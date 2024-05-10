@@ -1,7 +1,5 @@
 # Organizers
 
-## Raul Abramo
-
 ## [Níckolas de Aguiar Alves](https://alves-nickolas.github.io/)
 
   <div align="center">
