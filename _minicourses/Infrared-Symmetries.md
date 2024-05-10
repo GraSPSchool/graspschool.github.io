@@ -1,7 +1,7 @@
 ---
 title: Infrared Symmetries of General Relativity
 shortname: Infrared Symmetries
-schedule: July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC)
+schedule: July 15 to July 19 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
 lecturer: Níckolas de Aguiar Alves, MSc (UFABC)
 layout: workshop1
 eventcode: grasp1
@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](fisica.ufabc.edu.br))
 
-**Schedule:** July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC). One must attend at least 4 classes to receive a certificate.
+**Schedule:** July 15 to July 19 (5 classes), all at 16h00 (BRT)/19h00 (UTC). One must attend at least 4 classes to receive a certificate.
 
 **Workload:** 10h
 
