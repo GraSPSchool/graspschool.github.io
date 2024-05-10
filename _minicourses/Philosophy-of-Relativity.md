@@ -1,7 +1,7 @@
 ---
 title: Philosophy of Relativity
 shortname: Philosophy of Relativity
-schedule: 
+schedule: July 15 to July 17 (3 classes), all at 14h00 (BRT)/17h00 (UTC)
 lecturer: Dr. Antonio Ferrero, PhD (Utrecht University)
 layout: workshop1
 eventcode: grasp1
@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Dr. Antonio Ferrero, PhD (Utrecht University)
 
-**Schedule:** 
+**Schedule:** July 15 to July 17 (3 classes), all at 14h00 (BRT)/17h00 (UTC). One must attend at least 2 classes to receive a certificate.
 
 **Workload:** 6h
 
