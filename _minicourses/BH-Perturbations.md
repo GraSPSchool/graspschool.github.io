@@ -1,7 +1,7 @@
 ---
 title: "Black Hole Perturbation Theory: An Introduction"
 shortname: BH Perturbations
-schedule: 
+schedule: July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC)
 lecturer: Vitor Fernandes Guimarães, BSc (UFABC)
 layout: workshop1
 eventcode: grasp1
@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Vitor Fernandes Guimarães, BSc (UFABC)
 
-**Schedule:** July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC)
+**Schedule:** July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC). One must attend at least 4 classes to receive a certificate.
 
 **Workload:** 10h
 
