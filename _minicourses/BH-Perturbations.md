@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Vitor Fernandes Guimarães, BSc (UFABC)
 
-**Schedule:** 
+**Schedule:** July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC)
 
 **Workload:** 10h
 
