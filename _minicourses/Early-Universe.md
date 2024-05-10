@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Rosa Laura Lechuga Solis, MSc (ICN-UNAM, México)
 
-**Schedule:** 
+**Schedule:** July 15 to July 19 (5 classes), all at XXh00 (BRT)/XXh00 (UTC)
 
 **Workload:** 10h
 
