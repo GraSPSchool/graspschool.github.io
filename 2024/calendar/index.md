@@ -8,8 +8,8 @@
 
 **The course schedule is:**
 
-|             | July 15 | July 16 | July 17 | July 18 | July 19 |
-|-------------|---------|---------|---------|---------|---------|
-| 10h00 (BRT) |         |         |         |         |         |
-| 14h00 (BRT) |         |         |         |         |         |
-| 16h00 (BRT) |         |         |         |         |         |
+|             | July 15                  | July 16                  | July 17                  | July 18                  | July 19                  |
+|-------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| 10h00 (BRT) | Gravitational Lenses     | Gravitational Lenses     | Gravitational Lenses     | Gravitational Lenses     | Gravitational Lenses     |
+| 14h00 (BRT) | Philosophy of Relativity | Philosophy of Relativity | Philosophy of Relativity | Philosophy of Relativity | Philosophy of Relativity |
+| 16h00 (BRT) |                          |                          |                          |                          |                          |
