@@ -1,8 +1,8 @@
 # Calendar
 
-**Official registration opens at:** to be defined
+**Official registration opens at:** June 15, 2024
 
-**Official registration closes at:** to be defined
+**Official registration closes at:** July 14, 2024
 
 **The school happens on:** the week between July 15 and July 19, 2024
 
