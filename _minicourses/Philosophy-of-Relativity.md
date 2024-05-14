@@ -9,7 +9,7 @@ eventcode: grasp1
 
 **Lecturer:** Dr. Antonio Ferrero, PhD (Utrecht University)
 
-**Schedule:** July 15 to July 17 (3 classes), all at 14h00 (BRT)/17h00 (UTC). One must attend at least 2 classes to receive a certificate.
+**Schedule:** July 15 to July 17 (3 classes), all at 14h00 (BRT)/17h00 (UTC). One must attend all 3 classes to receive a certificate.
 
 **Workload:** 6h
 
