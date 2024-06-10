@@ -11,4 +11,4 @@ Embark on a captivating journey into contemporary lines of research in gravitati
 
 Certificates will be issued to participants of a given minicourse upon comparison to 75% of the lectures of that minicourse. A passport number or a Brazilian document (RNE or CPF) is necessary for the emission of the certificate.
 
-The GraSP logo includes an apple draw with Tikz using code from Mark Wibrow [available at TeX Stack Exchange](https://tex.stackexchange.com/a/413506/144146) and the shape of the state of São Paulo, which is based on the iconic sidewalks found in São Paulo (which were designed by [Mirthes dos Santos Pinto](https://www.archdaily.com.br/br/902542/a-historia-do-famoso-desenho-de-calcada-de-sao-paulo)).
+The GraSP logo includes an apple draw with Tikz using code from Mark Wibrow [available at TeX Stack Exchange](https://tex.stackexchange.com/a/413506/144146) and the shape of the state of São Paulo, which is based on the iconic sidewalks found in São Paulo designed by [Mirthes dos Santos Pinto](https://www.archdaily.com.br/br/902542/a-historia-do-famoso-desenho-de-calcada-de-sao-paulo).
