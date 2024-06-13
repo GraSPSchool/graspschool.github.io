@@ -1,6 +1,8 @@
 # Registration
 
-The official online registration system will be conducted by the Institute of Physics at the University of São Paulo. It will be open on June 15, 2024. Use the form below to receive a reminder about it. 
+The official online registration system will be conducted by the Institute of Physics at the University of São Paulo. It is available at [this website]. Unfortunately, it is in Portuguese, but we will soon provide a guide (in English) on how to do your subscription. Use the form below to receive a reminder about it. 
+
+The registration system provided by the University of São Paulo cannot deal with the selection of minicourses within a larger event. For this reason, we created [this form](https://forms.gle/mvNoXsiyR5Z2TtfQ6) for you to select the minicourses of your interest. We apologize for the inconvenience.
 
 Please notice that a passport number or a Brazilian document (RNE or CPF) is necessary for the emission of the certificate. Certificates will only be issued upon comparison to 75% of the classes of a given minicourse. 
 
