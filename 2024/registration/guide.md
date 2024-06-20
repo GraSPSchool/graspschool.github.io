@@ -28,7 +28,7 @@ The third page is the following.
 
 This page asks for your USP number, in case you have one. 
 
-If you do have a USP number, please inform it to avoid creating a new USP number for you in the USP system and then click the "Avançar" button to proceed to the next page. The next page will then be the last one and requires you only to check your data and confirm the registration.
+If you do have a USP number, please inform it to avoid creating a new USP number for you in the USP system and then click the "Avançar" button to proceed to the next page. The next page will then be the last one and requires you only to check your data and confirm the registration. Then skip to Step 5.
 
 If you do not have a USP number, leave the field blank. Click the blue hyperlink reading "clique aqui" which is above the entry field, to the left of the page, inside square brackets. Then proceed to step 4.
 
@@ -38,4 +38,18 @@ In case you don't have a USP number, this should be the last page. The first par
 
 ![First half of the fourth step of the registration process](Step4A.jpeg)
 
-The first block of entries is "Dados Pessoais" (personal data). The first entry asks for your name as registered in your ID. The following entry, which is a dropdown box, asks for your gender as specified in your ID, the options being "Masculino" (male) and "Feminino" (female). 
+The first block of entries is "Dados Pessoais" (personal data). The first entry asks for your name as registered in your ID. The following entry, which is a dropdown box, asks for your gender as specified in your ID, the options being "Masculino" (male) and "Feminino" (female). If you do not use your name as given in your ID socially, the clickable box below this option allows you to inform your "social name", i.e., the name which you would rather use. Next you should find your filled-in date of birth. Below it, the entry "nome da mãe" asks for your mother's name. The next entry, for a CPF number, can be left unfilled, and below it you should find your e-mail. 
+
+The next picture shows the remaining of the page.
+
+![Second half of the fourth step of the registration process](Step4B.jpeg)
+
+The second block of the page, labelled "Dados Complementares" (complementary data) asks for information about your citizenship. The first dropdown box asks for your country. If you do not enter "Brazil", the second and third options should disappear. The remaining entry ("Nacionalidade", which means citizenship) asks for your citizenship. 
+
+The third block in the page is called "Documento Principal de Identificação" (main ID). In the "Tipo" dropdown, please select "Passaporte" (passport) or "Documento de Identidade Estrangeiro" (non-Brazilian ID). The second entry ("Número") asks for the number of your document (your passport or your non-Brazilian ID). You can leave "EXT" in the third entry. The dropdown "País" asks for your country. "Data de expedição" is the date in which your document was issued (in the dd/mm/yyyy format), and "Válido até" is the expiration date for your document (in the dd/mm/yyyy format). Although the system does not mark the expiration date as mandatory, we were informed by some participants that it is indeed mandatory.
+
+The last two blocks ask for an address and for telephone numbers. These are not mandatory and can be left empty. 
+
+**Step 5:** confirmation e-mail
+
+At this point, we expect the registration process to be complete. You should receive an e-mail 
