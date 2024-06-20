@@ -61,3 +61,5 @@ At this point, we expect the registration process to be complete. You should rec
 ![Confirmation e-mail of the registration process](Step5.jpeg)
 
 The e-mail confirms that you registered to the school. It also states that in principle the registration is subject to acceptance by the organizing committee. While in principle this acceptance will be made in terms of the participant's previous experience with general relativity, we expect the virtual rooms to have more slots available than there will be participants. Therefore, we currently plan on accepting all registrations. 
+
+**Course selection form:** The registration system provided by the University of São Paulo cannot deal with the selection of minicourses within a larger event. For this reason, we created [this form](https://forms.gle/mvNoXsiyR5Z2TtfQ6) for you to select the minicourses of your interest. We apologize for the inconvenience.
