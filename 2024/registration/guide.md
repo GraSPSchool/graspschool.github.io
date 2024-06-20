@@ -50,6 +50,14 @@ The third block in the page is called "Documento Principal de Identificação" (
 
 The last two blocks ask for an address and for telephone numbers. These are not mandatory and can be left empty. 
 
+After you click the button at the bottom of the page, you should receive a pop-up message similar to the following one.
+
+![Last part of the fourth step of the registration process](Step4C.jpeg)
+
 **Step 5:** confirmation e-mail
 
-At this point, we expect the registration process to be complete. You should receive an e-mail 
+At this point, we expect the registration process to be complete. You should receive an e-mail similar to the following one. 
+
+![Confirmation e-mail of the registration process](Step5.jpeg)
+
+The e-mail confirms that you registered to the school. It also states that in principle the registration is subject to acceptance by the organizing committee. While in principle this acceptance will be made in terms of the participant's previous experience with general relativity, we expect the virtual rooms to have more slots available than there will be participants. Therefore, we currently plan on accepting all registrations. 
