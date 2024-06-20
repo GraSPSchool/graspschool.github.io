@@ -1,6 +1,6 @@
 # Registration
 
-**Registration form:** The official online registration system will be conducted by the Institute of Physics at the University of São Paulo. It is available at [this website](https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=43&codcurceu=430400057&codedicurceu=24001&numseqofeedi=1&oriins=W). Unfortunately, it is in Portuguese, but we [have written a guide on how to register](https://graspschool.github.io/2024/registration/guide). Please [click here](https://graspschool.github.io/2024/registration/guide) to access it. 
+**Registration form:** The official online registration system will be conducted by the Institute of Physics at the University of São Paulo. It is available at [this website](https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=43&codcurceu=430400057&codedicurceu=24001&numseqofeedi=1&oriins=W). Unfortunately, it is in Portuguese, but we [have written a guide on how to register](https://graspschool.github.io/2024/registration/guide). Please [click here](https://graspschool.github.io/2024/registration/guide) to access the guide. Registration should be open until July 08, 2024 (we recommend registering early to avoid possible issues with timezones). 
 
 **Confirmation e-mail:** upon making your registration in the link above, you will receive an automatic e-mail in Portuguese. The e-mail describes the selection process for "admission" in the school, but we intend to accept all applications within the limits of the virtual rooms (which support around 300 people at a time).
 
