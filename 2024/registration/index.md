@@ -6,9 +6,9 @@
 
 **Course selection form:** The registration system provided by the University of São Paulo cannot deal with the selection of minicourses within a larger event. For this reason, we created [this form](https://forms.gle/mvNoXsiyR5Z2TtfQ6) for you to select the minicourses of your interest. We apologize for the inconvenience.
 
-Please notice that an ID (usually a passport number or a Brazilian document) is necessary for the emission of the certificate. Certificates will only be issued upon comparison to 75% of the classes of a given minicourse. 
+Please notice that an ID (usually a passport number or a Brazilian document) is necessary for the emission of the certificate. Certificates will only be issued upon attendance to 75% of the classes of a given minicourse. 
 
-Please do not apply for two simultaneous courses. If it is found that you registered for two simultaneous courses and had the necessary comparison in both of them, none of the certificates will be issued.
+Please do not apply for two simultaneous courses. If it is found that you registered for two simultaneous courses and had the necessary attendance in both of them, none of the certificates will be issued.
 
 The classes will be recorded unless the lecturer chooses otherwise. By registering to a course, you agree with this and with the video being later shared on YouTube. 
 
