@@ -1,7 +1,7 @@
 ---
-title: Gravitational Lenses
+title: Gravitational Lenses (Cancelled)
 shortname: Gravitational Lenses
-schedule: July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC)
+schedule: cancelled
 lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 layout: workshop1
 eventcode: grasp1
@@ -9,9 +9,9 @@ eventcode: grasp1
 
 **Lecturer:** Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 
-**Schedule:** July 15 to July 19 (5 classes), all at 10h00 (BRT)/13h00 (UTC). One must attend at least 4 classes to receive a certificate.
+**Schedule:** cancelled
 
-**Workload:** 10h
+**Workload:** cancelled
 
 **Topics:** 1. Introduction, history, propagation of light in curved spaces. 2. Study of the lens equation and its consequences. 3. Strong gravitational lenses: gravitational arcs, supernovae and multiple imaging, microlenses. 4. Weak gravitational lenses: galaxy clusters, galaxy-galaxy. 5. Short review of cosmology, cosmic shear, open problems. 
 
