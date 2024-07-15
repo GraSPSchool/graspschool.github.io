@@ -28,3 +28,10 @@ These are the main references for the course. A complete list of references is a
 5. C. Duval, G. W. Gibbons e P. A. Horvathy. [“Conformal Carroll Groups and BMS Symmetry”. *Classical and Quantum Gravity* **31**.9, 092001 (2014)](https://doi.org/10.1088/0264-9381/31/9/092001). arXiv: [1402.5894 [gr-qc]](https://arxiv.org/abs/1402.5894).
 6. Claudio Dappiaggi, Valter Moretti e Nicola Pinamonti. [*Hadamard States From Light-like Hypersurfaces*](https://doi.org/10.1007/978-3-319-64343-4). SpringerBriefs in Mathematical Physics 25. Cham: Springer, 2017. arXiv: [1706.09666 [math-ph]](https://arxiv.org/abs/1706.09666).
 7. Andrew Strominger. *Lectures on the Infrared Structure of Gravity and Gauge Theory*. Princeton: Princeton University Press, 2018. arXiv: [1703.05448 [hep-th]](https://arxiv.org/abs/1703.05448).
+
+
+**Resources**
+
+* [Lecture Notes](https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf)
+
+* Lecture 1: [video recording](https://drive.google.com/file/d/1cv1kTdzgZreHb8cuQKNklF1jhksfMkgb/view?usp=sharing)
