@@ -23,3 +23,7 @@ eventcode: grasp1
 2. Sean Carroll. *Spacetime and Geometry: An Introduction to General Relativity*. Harlow: Pearson, 2014.
 3. Michele Maggiore. *Gravitational Waves. Vol. 1: Theory and Experiments*. Oxford: Oxford University Press, 2008.
 4. Emanuele Berti. [“Black Hole Perturbation Theory”](https://www.icts.res.in/event/page/3071). Em: Summer School on Gravitational-Wave Astronomy (International Center for Theoretical Sciences). Bangalore, 2016.
+
+**Resources**
+
+* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_1.pdf), [video recording](https://drive.google.com/file/d/1YyTDUvY_K8Bj5PvfeVvISsdFSJTANv8e/view?usp=sharing)
