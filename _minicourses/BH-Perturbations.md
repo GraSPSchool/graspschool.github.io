@@ -27,3 +27,4 @@ eventcode: grasp1
 **Resources**
 
 * Lecture 1: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_1.pdf), [video recording](https://drive.google.com/file/d/1YyTDUvY_K8Bj5PvfeVvISsdFSJTANv8e/view?usp=sharing)
+* Lecture 2: [video recording](https://drive.google.com/file/d/1-7oGgP2O5LYXCs8Ihmntd6ck2HTKGoZ_/view?usp=sharing)
