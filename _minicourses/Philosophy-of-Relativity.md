@@ -23,3 +23,7 @@ eventcode: grasp1
 2. Harvey R. Brown. *Physical Relativity: Space-Time Structure from a Dynamical Perspective*. Oxford: Clarendon Press, 2007.
 3. Robert DiSalle. [*Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*](https://doi.org/10.1017/CBO9780511487361). Cambridge: Cambridge University Press, 2006. 
 4. David Malament. *Topics in the Foundations of General Relativity and Newtonian Gravitation Theory*. Chicago Lectures in Physics. Chicago, IL: The University of Chicago Press, 2012.
+
+**Resources**
+
+* Lecture 1: [video recording](https://drive.google.com/file/d/12I0NAl_tFS2V0__SpUe1_i3DRwj4BQG5/view?usp=sharing)
