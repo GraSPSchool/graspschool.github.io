@@ -35,3 +35,4 @@ These are the main references for the course. A complete list of references is a
 * [Lecture Notes](https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf)
 
 * Lecture 1: [video recording](https://drive.google.com/file/d/1cv1kTdzgZreHb8cuQKNklF1jhksfMkgb/view?usp=sharing)
+* Lecture 2: [video recording](https://drive.google.com/file/d/1wGAsxF2LvNTJN6JGQRaajg-SUZKl7WsM/view?usp=sharing)
