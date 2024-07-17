@@ -27,3 +27,4 @@ eventcode: grasp1
 
 * Lecture 1: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec1.pdf), [video recording](https://drive.google.com/file/d/157QIbyMG5MI-hBolBLWph_WReH2KO4oA/view?usp=sharing)
 * Lecture 2: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec2.pdf), [video recording](https://drive.google.com/file/d/1zlNepJisFo-biyN2VlOGGEc_QPdxTJXR/view?usp=sharing)
+* Lecture 3: [video recording](https://drive.google.com/file/d/1yzZXfViIS0vbk_bfEhlosCSf9raXp5jM/view?usp=sharing)
