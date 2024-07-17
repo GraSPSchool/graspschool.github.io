@@ -27,3 +27,4 @@ eventcode: grasp1
 **Resources**
 
 * Lecture 1: [video recording](https://drive.google.com/file/d/12I0NAl_tFS2V0__SpUe1_i3DRwj4BQG5/view?usp=sharing)
+* Lecture 2: [video recording](https://drive.google.com/file/d/1aHMUEDFEAiGP_iHd5XupX7PIeQkJP_bR/view?usp=sharing)
