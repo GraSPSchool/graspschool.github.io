@@ -28,3 +28,4 @@ eventcode: grasp1
 
 * Lecture 1: [video recording](https://drive.google.com/file/d/12I0NAl_tFS2V0__SpUe1_i3DRwj4BQG5/view?usp=sharing)
 * Lecture 2: [video recording](https://drive.google.com/file/d/1aHMUEDFEAiGP_iHd5XupX7PIeQkJP_bR/view?usp=sharing)
+* Lecture 3: [video recording](https://drive.google.com/file/d/1hN4ebNmGd89kn0SEjqIKmbTsRDwARaLw/view?usp=sharing)
