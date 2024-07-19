@@ -38,3 +38,4 @@ These are the main references for the course. A complete list of references is a
 * Lecture 2: [video recording](https://drive.google.com/file/d/1wGAsxF2LvNTJN6JGQRaajg-SUZKl7WsM/view?usp=sharing)
 * Lecture 3: [video recording](https://drive.google.com/file/d/1e0wQkPGMcz7gsBoRlilaG-ZeWpOiVn8M/view?usp=sharing)
 * Lecture 4: [video recording](https://drive.google.com/file/d/1NNAhjmvtTBzYOK8iLNnVPHBG1F-Ok4hU/view?usp=sharing)
+* Lecture 5: [video recording](https://drive.google.com/file/d/1BnW0u1EpvEkYhEcdz6YEP8tlEzqOJ077/view?usp=sharing)
