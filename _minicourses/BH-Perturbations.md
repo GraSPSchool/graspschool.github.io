@@ -30,4 +30,4 @@ eventcode: grasp1
 * Lecture 2: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_2.pdf), [video recording](https://drive.google.com/file/d/1-7oGgP2O5LYXCs8Ihmntd6ck2HTKGoZ_/view?usp=sharing)
 * Lecture 3: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_3.pdf), [video recording](https://drive.google.com/file/d/1LKjNcMdJADb51LXe0_aReaUX3hc9WjQP/view?usp=sharing)
 * Lecture 4: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_4.pdf), [video recording](https://drive.google.com/file/d/1qzXyehQyPczbqbLsR3WVVbLSXAOHTb45/view?usp=sharing)
-* Lecture 5: [video recording](https://drive.google.com/file/d/1ireJPmFtDF2pWf277sNeG2dC2OYcDJf8/view?usp=sharing)
+* Lecture 5: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_5.pdf), [video recording](https://drive.google.com/file/d/1ireJPmFtDF2pWf277sNeG2dC2OYcDJf8/view?usp=sharing)
