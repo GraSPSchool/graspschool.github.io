@@ -20,21 +20,21 @@
       <!--<div id="header">-->
       <div>
         <nav id="Menu">
-          <a href="{{ site.url }}"><button class="navbutton">Home</button></a>
+          <a href="{{ site.url }}" class="button">Home</a>
           <div class="dropdown"><a href="{{ site.url }}/2024/minicourses"><button class="dropbtn">Minicourses</button></a>
             <div class="dropdown-content">
               {% for minicourse in site.minicourses %}
                 {% if minicourse.eventcode contains 'grasp1' %}
-                  <a href="{{ minicourse.url }}">{{ minicourse.shortname | default: minicourse.title }}</a>
+                  <a href="{{ minicourse.url }}" class="button">{{ minicourse.shortname | default: minicourse.title }}</a>
                 {% endif %}
               {% endfor %}
             </div>
           </div>
-          <a href="{{ site.url }}/2024/calendar"><button class="navbutton">Calendar</button></a>
-          <a href="{{ site.url }}/2024/registration"><button class="navbutton">Registration</button></a>
-          <a href="{{ site.url }}/2024/organizers"><button class="navbutton">Organizers</button></a>
-          <a href="{{ site.url }}/2024/contact"><button class="navbutton">Contact</button></a>
-          <a href="{{ site.url }}/2024/acknowledgments"><button class="navbutton">Acknowledgments</button></a>
+          <a href="{{ site.url }}/2024/calendar" class="button">Calendar</a>
+          <a href="{{ site.url }}/2024/registration" class="button">Registration</a>
+          <a href="{{ site.url }}/2024/organizers" class="button">Organizers</a>
+          <a href="{{ site.url }}/2024/contact" class="button">Contact</a>
+          <a href="{{ site.url }}/2024/acknowledgments" class="button">Acknowledgments</a>
         </nav>
 
     <div class="wrapper">
