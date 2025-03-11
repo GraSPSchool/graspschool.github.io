@@ -3,6 +3,8 @@ title: GraSP
 description: 
 
 grasp1title: I São Paulo School on Gravitational Physics
+grasp2title: II São Paulo School on Gravitational Physics
+
 
 github:
   is_project_page: false
@@ -15,7 +17,11 @@ defaults:
   - scope:
       path: "2024"
     values:
-      layout: "grasp1"      
+      layout: "grasp1"
+  - scope:
+      path: "2025"
+    values:
+      layout: "grasp2"
   - scope:
       path: ""
     values:
