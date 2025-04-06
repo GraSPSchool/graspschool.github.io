@@ -14,7 +14,7 @@ coursetype: introductory
 
 **Carga horária:** 10h
 
-**Tópicos:** 
+**Tópicos:** O que são buracos negros? Buraco negro de Schwarzschild, Reissner–Nordström, Kerr, e Kerr–Newman. Teorema da Área. Eventuais aplicações. 
 
 **Pré-requisitos:** Matemática a nível de ensino médio, especialmente polinômios (fórmula de Bháskara, etc). Conhecimentos prévios sobre gravidade Newtoniana e eletrostática são bem-vindos. Não é necessário saber cálculo.
 
