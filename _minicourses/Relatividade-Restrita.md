@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: introductory
 ---
 
-**Professor:** Caio César Rodrigues Evangelista
+**Professor:** Caio César Rodrigues Evangelista, BSC (UFC)
 
 **Horário:** 
 
