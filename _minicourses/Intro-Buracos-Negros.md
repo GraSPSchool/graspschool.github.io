@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: introductory
 ---
 
-**Professor:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](fisica.ufabc.edu.br))
+**Professor:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](https://fisica.ufabc.edu.br))
 
 **Horário:** 
 
