@@ -16,7 +16,7 @@ coursetype: introductory
 
 **Tópicos:** 
 
-**Pré-requisitos:** 
+**Pré-requisitos:** Cálculo de funções de uma variável e mecânica Newtoniana.
 
 **Bibliografia:**
 
