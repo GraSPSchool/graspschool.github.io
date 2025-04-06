@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: intermediate
 ---
 
-**Lecturer:** Rafael Grossi e Fonseca, MSc
+**Lecturer:** Rafael Grossi e Fonseca, MSc (IFUSP)
 
 **Schedule:** 
 
@@ -16,7 +16,7 @@ coursetype: intermediate
 
 **Topics:** 
 
-**Pre-requisites:** Matemática a nível de ensino médio, especialmente polinômios (fórmula de Bháskara, etc). Conhecimentos prévios sobre gravidade Newtoniana e eletrostática são bem-vindos. Não é necessário saber cálculo.
+**Pre-requisites:** 
 
 **Bibliography:**
 
