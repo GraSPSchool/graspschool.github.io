@@ -1,6 +1,6 @@
 ---
-title: Black Hole Shadows
-shortname: BH Shadows
+title: Cosmology
+shortname: Cosmology
 schedule: 
 lecturer: 
 layout: workshop2
