@@ -16,6 +16,6 @@
 
 | BRT   | UTC   | Bachelor             | Master                   |
 |-------|-------|----------------------|--------------------------|
-| 10h00 | 13h00 |                      |                          |
+| 10h00 | 13h00 | Introdução à Física de Buracos Negros |                          |
 | 14h00 | 17h00 |                      |                          |
-| 16h00 | 19h00 |                      |                          |
+| 16h00 | 19h00 | Relatividade Restrita |                          |
