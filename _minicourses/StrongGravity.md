@@ -2,7 +2,7 @@
 title: Testing gravity where it is strong
 shortname: Strong Gravity
 schedule: 
-lecturer: Prajwal Hassan Puttasiddappa
+lecturer: "Prajwal Hassan Puttasiddappa, MSc (U. Oslo and Espírito Santo U.)"
 layout: workshop2
 eventcode: grasp2
 coursetype: intermediate
