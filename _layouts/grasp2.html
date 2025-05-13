@@ -33,7 +33,7 @@
           <a href="{{ site.url }}/2025/calendar" class="button">Calendar</a>
           <a href="{{ site.url }}/2025/registration" class="button">Registration</a>
           <a href="{{ site.url }}/2025/organizers" class="button">Organizers</a>
-          <a href="{{ site.url }}/2025/contact" class="button">Contact</a>
+          <!--<a href="{{ site.url }}/2025/contact" class="button">Contact</a>-->
           <a href="{{ site.url }}/2025/acknowledgments" class="button">Acknowledgments</a>
         </nav>
 
@@ -44,8 +44,8 @@
           <h1 style="font-weight: 500">II GraSP</h1>
           <p>Official website for the II São Paulo School on Gravitational Physics</p>
           <hr>
-          <span class="credits left">Page by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme based on "Midnight", by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <span class="credits left">Hosted on GitHub Pages</span>
+          <span class="credits right">Theme based on "Midnight", by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
         {{ content }}
@@ -53,17 +53,15 @@
       </section>
 
     </div>
-
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-  </center></body>
+  </center>
+    
+  <footer>
+		<center>
+			<address>II São Paulo School in Gravitational Physics
+			<br/><a href="mailto:graspschool@gmail.com">graspschool@gmail.com</a>
+			</address>
+		</center>
+	</footer>
+  </body>
   
 </html>
