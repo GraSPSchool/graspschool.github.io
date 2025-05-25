@@ -24,8 +24,6 @@ eventcode: grasp1
 3. Robert DiSalle. [*Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*](https://doi.org/10.1017/CBO9780511487361). Cambridge: Cambridge University Press, 2006. 
 4. David Malament. *Topics in the Foundations of General Relativity and Newtonian Gravitation Theory*. Chicago Lectures in Physics. Chicago, IL: The University of Chicago Press, 2012.
 
-**Resources**
+**Recordings:**
 
-* Lecture 1: [video recording](https://drive.google.com/file/d/12I0NAl_tFS2V0__SpUe1_i3DRwj4BQG5/view?usp=sharing)
-* Lecture 2: [video recording](https://drive.google.com/file/d/1aHMUEDFEAiGP_iHd5XupX7PIeQkJP_bR/view?usp=sharing)
-* Lecture 3: [video recording](https://drive.google.com/file/d/1hN4ebNmGd89kn0SEjqIKmbTsRDwARaLw/view?usp=sharing)
+<iframe src="https://www.youtube.com/embed/videoseries?si=NpHv9INAvTcxNJLf&amp;list=PLFbVsjW_Z3X6eyxzqlugr8OCixIBqS7H_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
