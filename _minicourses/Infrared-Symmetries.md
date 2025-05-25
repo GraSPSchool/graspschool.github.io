@@ -32,10 +32,9 @@ These are the main references for the course. A complete list of references is a
 
 **Resources**
 
-* [Lecture Notes](https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf)
+* [Lecture Notes (Original Version)](https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf)
+* Lecture Notes (Extended Version): Aguiar Alves, Níckolas de. 2025. “Lectures on the Bondi–Metzner–Sachs group and related topics in infrared physics.” arXiv: <a href="https://arxiv.org/abs/2504.12521" target="_blank">2504.12521 [gr-qc]</a>.
 
-* Lecture 1: [video recording](https://drive.google.com/file/d/1cv1kTdzgZreHb8cuQKNklF1jhksfMkgb/view?usp=sharing)
-* Lecture 2: [video recording](https://drive.google.com/file/d/1wGAsxF2LvNTJN6JGQRaajg-SUZKl7WsM/view?usp=sharing)
-* Lecture 3: [video recording](https://drive.google.com/file/d/1e0wQkPGMcz7gsBoRlilaG-ZeWpOiVn8M/view?usp=sharing)
-* Lecture 4: [video recording](https://drive.google.com/file/d/1NNAhjmvtTBzYOK8iLNnVPHBG1F-Ok4hU/view?usp=sharing)
-* Lecture 5: [video recording](https://drive.google.com/file/d/1BnW0u1EpvEkYhEcdz6YEP8tlEzqOJ077/view?usp=sharing)
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=q_gZclYINu6jd-HX&amp;list=PLFbVsjW_Z3X7D8P0jEueiWgLdm073sXc9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
