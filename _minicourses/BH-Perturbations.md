@@ -24,10 +24,14 @@ eventcode: grasp1
 3. Michele Maggiore. *Gravitational Waves. Vol. 1: Theory and Experiments*. Oxford: Oxford University Press, 2008.
 4. Emanuele Berti. [“Black Hole Perturbation Theory”](https://www.icts.res.in/event/page/3071). Em: Summer School on Gravitational-Wave Astronomy (International Center for Theoretical Sciences). Bangalore, 2016.
 
-**Resources**
+**Resources:**
 
-* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_1.pdf), [video recording](https://drive.google.com/file/d/1YyTDUvY_K8Bj5PvfeVvISsdFSJTANv8e/view?usp=sharing)
-* Lecture 2: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_2.pdf), [video recording](https://drive.google.com/file/d/1-7oGgP2O5LYXCs8Ihmntd6ck2HTKGoZ_/view?usp=sharing)
-* Lecture 3: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_3.pdf), [video recording](https://drive.google.com/file/d/1LKjNcMdJADb51LXe0_aReaUX3hc9WjQP/view?usp=sharing)
-* Lecture 4: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_4.pdf), [video recording](https://drive.google.com/file/d/1qzXyehQyPczbqbLsR3WVVbLSXAOHTb45/view?usp=sharing)
-* Lecture 5: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_5.pdf), [video recording](https://drive.google.com/file/d/1ireJPmFtDF2pWf277sNeG2dC2OYcDJf8/view?usp=sharing)
+* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_1.pdf)
+* Lecture 2: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_2.pdf)
+* Lecture 3: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_3.pdf)
+* Lecture 4: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_4.pdf)
+* Lecture 5: [slideshow](https://graspschool.github.io/2024/files/BHPT_Lecture_5.pdf)
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=WgAYUlGaLd1s8qJ6&amp;list=PLFbVsjW_Z3X74xEZJqmvMIbT4CtT1SMJm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
