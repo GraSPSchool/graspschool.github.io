@@ -23,10 +23,11 @@ eventcode: grasp1
 2. Julien Lesgourgues. [*Inflationary Cosmology*](https://lesgourg.github.io/courses/Inflation_EPFL.pdf). Lecture notes. 2006.
 3. Steven Weinberg. *Cosmology*. Oxford: Oxford University Press, 2008.
 
-**Resources**
+**Resources:**
 
-* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec1.pdf), [video recording](https://drive.google.com/file/d/157QIbyMG5MI-hBolBLWph_WReH2KO4oA/view?usp=sharing)
-* Lecture 2: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec2.pdf), [video recording](https://drive.google.com/file/d/1zlNepJisFo-biyN2VlOGGEc_QPdxTJXR/view?usp=sharing)
-* Lecture 3: [video recording](https://drive.google.com/file/d/1yzZXfViIS0vbk_bfEhlosCSf9raXp5jM/view?usp=sharing)
-* Lecture 4: [video recording](https://drive.google.com/file/d/1LqQvTLyzuWeKXeso44Ub0LljNwKJByBS/view?usp=sharing)
-* Lecture 5: [video recording](https://drive.google.com/file/d/1wXUegrwMGrhzQMHMt_rwiLL49Je3JCP3/view?usp=sharing)
+* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec1.pdf)
+* Lecture 2: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec2.pdf)
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=IMxhdqDTPQjMUEvX&amp;list=PLFbVsjW_Z3X4oNcHE8WN5gWDjGaUzZqfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
