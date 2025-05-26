@@ -7,7 +7,7 @@ layout: grasp2
   <img src="https://graspschool.github.io//logo.svg" alt="GraSP Logo" width="300">
 </div>
 
-Embark on a captivating journey into contemporary lines of research in gravitational physics with our week-long online school tailored for students who studied general relativity at the undergraduate level. Led by a dynamic team of early-career researchers, this immersive experience offers an in-depth exploration of the frontiers in gravity research that are not covered in standard courses. Each course is meticulously crafted to illuminate cutting-edge topics, from the mysteries of inflationary cosmology to the nuances of relativistic astrophysics. Discover the philosophical underpinnings of relativity and the potential of gravitational waves and unravel the mysteries of GR’s IR behavior. Join us for a week of intellectual stimulation, vibrant discussions, and insights into the fascinating world of gravitational physics.
+Join us once more for a week of general relativity and gravitation studies. The II São Paulo School on Gravitational Physics is an effort led by early-career researchers to explore and advertise the multiple facets of gravity. In 2025, we invite students with previous experience in general relativity to learn more about twistors and tests of strong gravity, while younger physicists will have the opportunity to learn about special relativity and the main principles of black hole physics.
 
 Certificates will be issued to participants of a given minicourse upon attendance at 75% of the lectures.
 
