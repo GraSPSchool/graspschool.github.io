@@ -1,5 +1,5 @@
 ---
-title: Testing gravity where it is strong
+title: Testing Gravity Where It Is Strong
 shortname: Strong Gravity
 schedule: 
 lecturer: "Prajwal Hassan Puttasiddappa, MSc (U. Oslo and Espírito Santo U.)"
