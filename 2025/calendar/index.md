@@ -10,9 +10,8 @@
 
 * **Introdução à Física de Buracos Negros**: July 14 to July 18 (5 classes)
 * **Relatividade Restrita**: July 14 to July 18 (5 classes)
-* **Black Hole Shadows**: July 14 to July 18 (5 classes)
+* **Testing Gravity Where It Is Strong**: July 14 to July 18 (5 classes)
 * **Twistors**: July 14 to July 18 (5 classes)
-* **Covariant Aspects of Radiation**: July 14 to July 18 (5 classes)
 
 | BRT   | UTC   | Bachelor             | Master                   |
 |-------|-------|----------------------|--------------------------|
