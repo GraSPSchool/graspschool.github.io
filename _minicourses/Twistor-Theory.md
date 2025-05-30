@@ -1,5 +1,5 @@
 ---
-title: Twistor Theory
+title: Introduction to Twistor Theory
 shortname: Twistors
 schedule: 
 lecturer: Rafael Grossi e Fonseca, MSc (IFUSP)
