@@ -10,7 +10,7 @@ coursetype: introductory
 
 **Professor:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](https://fisica.ufabc.edu.br))
 
-**Horário:** 14 de julho a 18 de julho (5 aulas), todas às 16h00 (BRT)/19h00 (UTC).
+**Horário:** 14 de julho a 18 de julho (5 aulas), todas às 10h00 (BRT)/13h00 (UTC).
 
 **Carga horária:** 10h
 
