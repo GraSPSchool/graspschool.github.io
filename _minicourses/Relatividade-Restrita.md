@@ -14,7 +14,7 @@ coursetype: introductory
 
 **Carga horária:** 10h
 
-**Tópicos:** 
+**Tópicos:** O que é relatividade? Observadores Inerciais. Uma pequena história dos Sonamuh. Transformações de Lorentz. Dilatação temporal. Contração Espacial. Diagramas de Espaço-Tempo.
 
 **Pré-requisitos:** Cálculo de funções de uma variável e mecânica Newtoniana.
 
