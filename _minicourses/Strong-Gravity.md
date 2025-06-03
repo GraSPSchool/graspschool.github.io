@@ -1,16 +1,16 @@
 ---
 title: Testing Gravity Where It Is Strong
 shortname: Strong Gravity
-schedule: 
-lecturer: "Prajwal Hassan Puttasiddappa, MSc (U. Oslo and Espírito Santo U.)"
+schedule: July 14 to July 18 (5 classes), all at 10h00 (BRT)/13h00 (UTC)
+lecturer: "Prajwal Hassan Puttasiddappa, MSc (UFES and U. Oslo)"
 layout: workshop2
 eventcode: grasp2
 coursetype: intermediate
 ---
 
-**Lecturer:** Prajwal Hassan Puttasiddappa, MSc (U. Oslo and Espírito Santo U.)
+**Lecturer:** Prajwal Hassan Puttasiddappa, MSc (UFES and U. Oslo)
 
-**Schedule:** 
+**Schedule:** July 14 to July 18 (5 classes), all at 10h00 (BRT)/13h00 (UTC).
 
 **Workload:** 10h
 
