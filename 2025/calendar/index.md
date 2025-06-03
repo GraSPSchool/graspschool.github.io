@@ -4,7 +4,7 @@
 
 **Official registration closes at:** July 07, 2025
 
-**The school happens on:** the week between July 14 and July 18, 2025
+**The school happens on:** July 14 to July 18, 2025
 
 **The course schedule is:**
 
