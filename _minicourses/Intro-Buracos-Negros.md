@@ -20,6 +20,16 @@ coursetype: introductory
 
 **Bibliografia:**
 
+Os seguintes livros discutem relatividade geral (e buracos negros) a um nível mais voltado ao público geral e podem ser interessantes.
+
+1. Robert Geroch. *[General Relativity from A to B](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25841687.html)*. Chicago, IL: The University of Chicago Press, 1984.
+2. André G. S. Landulfo, George E. A. Matsas, e Daniel A. T. Vanzella. [*Buracos Negros: Rompendo os Limites da Ficção*](https://www.livrariaunesp.com.br/buracos-negros-rompendo-os-limites-da-ficcao-andre-landulfo-editora-unesp-9786557110072/p). São Paulo, SP: Editora UNESP, 2021.
+3. Roger Penrose. *The Road to Reality: A Complete Guide to the Laws of the Universe*. London: Jonathan Cape, 2004.
+4. Edwin F. Taylor, John Archibald Wheeler, and Edmund Bertschinger. *[Exploring Black Holes](https://www.eftaylor.com/exploringblackholes/)*.
+5. Kip S. Thorne. _Black Holes & Time Warps: Einstein's Outrageous Legacy_. W. W. Norton & Company, 1995.
+6. Robert M. Wald. *[Space, Time, and Gravity: The Theory of the Big Bang and Black Holes](https://press.uchicago.edu/ucp/books/book/chicago/S/bo3621945.html)*. Chicago, IL: The University of Chicago Press, 1984.
+
+
 Estas são as referências principais que embasam o curso, mas sua abordagem é muito mais técnica do que o curso será. Uma lista completa de referências estará disponível nas notas de aula (em inglês), que são a referência principal.
 
 1. Robert M. Wald. *[General Relativity](https://doi.org/10.7208/chicago/9780226870373.001.0001)*. Chicago, IL: The University of Chicago Press, 1984.
