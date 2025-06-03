@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: intermediate
 ---
 
-**Lecturer:** Prajwal Hassan Puttasiddappa, MSc (UFES and U. Oslo)
+**Lecturer:** Prajwal Hassan Puttasiddappa, MSc ([UFES](https://ppgcosmo.cosmo-ufes.org/) and [U. Oslo](https://www.mn.uio.no/fysikk/english/))
 
 **Schedule:** July 14 to July 18 (5 classes), all at 10h00 (BRT)/13h00 (UTC).
 
