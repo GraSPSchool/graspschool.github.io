@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: introductory
 ---
 
-**Professor:** Caio César Rodrigues Evangelista, BSc (UFC)
+**Professor:** Caio César Rodrigues Evangelista, BSc ([UFC](https://www.fisica.ufc.br/portal/en/front-page/))
 
 **Horário:** 14 de julho a 18 de julho (5 aulas), todas às 16h00 (BRT)/19h00 (UTC). 
 
