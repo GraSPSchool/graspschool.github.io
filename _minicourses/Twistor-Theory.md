@@ -8,7 +8,7 @@ eventcode: grasp2
 coursetype: intermediate
 ---
 
-**Lecturer:** Rafael Grossi e Fonseca, MSc (IFUSP)
+**Lecturer:** Rafael Grossi e Fonseca, MSc ([IFUSP](http://portal.if.usp.br/ifusp/en))
 
 **Schedule:** 
 
