@@ -1,7 +1,7 @@
 ---
 title: Introduction to Twistor Theory
 shortname: Twistor Theory
-schedule: 
+schedule: July 14 to July 18 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
 lecturer: Rafael Grossi e Fonseca, MSc (IFUSP)
 layout: workshop2
 eventcode: grasp2
@@ -10,7 +10,7 @@ coursetype: intermediate
 
 **Lecturer:** Rafael Grossi e Fonseca, MSc ([IFUSP](http://portal.if.usp.br/ifusp/en))
 
-**Schedule:** 
+**Schedule:** July 14 to July 18 (5 classes), all at 16h00 (BRT)/19h00 (UTC).
 
 **Workload:** 10h
 
