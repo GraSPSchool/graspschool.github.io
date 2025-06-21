@@ -18,8 +18,10 @@ defaults:
       path: "2024"
     values:
       layout: "grasp1"
+      show: true
   - scope:
       path: "2025"
+      show: true
     values:
       layout: "grasp2"
   - scope:
