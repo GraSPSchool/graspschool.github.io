@@ -3,6 +3,7 @@ title: Gravitational Lenses (Cancelled)
 shortname: Gravitational Lenses
 schedule: cancelled
 lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
+show: false
 layout: workshop1
 eventcode: grasp1
 ---
