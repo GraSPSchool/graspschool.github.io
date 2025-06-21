@@ -18,11 +18,8 @@
           <a href="{{ site.url }}/2025" class="button">Home</a>
           <div class="dropdown"><a href="{{ site.url }}/2025/minicourses"><button class="dropbtn">Minicourses</button></a>
             <div class="dropdown-content">
-              {% for minicourse in site.minicourses %}
-                {% if minicourse.eventcode contains 'grasp2' %}
-                  <a href="{{ minicourse.url }}" class="button">{{ minicourse.shortname | default: minicourse.title }}</a>
-                {% endif %}
-              {% endfor %}
+		<a href="{{ site.url }}/2025/minicourses" class="button">2025</a>
+		<a href="{{ site.url }}/minicourses/all" class="button">Previous</a>
             </div>
           </div>
           <a href="{{ site.url }}/2025/calendar" class="button">Calendar</a>
