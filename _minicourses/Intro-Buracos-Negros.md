@@ -20,6 +20,8 @@ coursetype: introductory
 
 **Bibliografia:**
 
+As notas de aula (em inglês) estão disponíveis [neste link](https://alves-nickolas.github.io/teaching/Black_Holes_for_First_Time_Physicists.pdf).
+
 Os seguintes livros discutem relatividade geral (e buracos negros) a um nível mais voltado ao público geral e podem ser interessantes.
 
 1. Robert Geroch. *[General Relativity from A to B](https://press.uchicago.edu/ucp/books/book/chicago/G/bo25841687.html)*. Chicago, IL: The University of Chicago Press, 1984.
