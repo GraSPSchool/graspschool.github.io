@@ -23,3 +23,7 @@ coursetype: introductory
 1. Eric Gourgoulhon. _[Special Relativity in General Frames: From Particles to Astrophysics](https://doi.org/10.1007/978-3-642-37276-6)_. Berlin: Springer, 2013.
 2. G. F. R. Ellis e R. M. Williams. _[Flat and Curved Space-Times](https://global.oup.com/academic/product/flat-and-curved-space-times-9780198506577?lang=en&cc=br)_. Oxford: Oxford University Press, 2001.
 3. R. P. Feynman, R. B. Leighton, M. Sands. _Six Not So Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time_. Basic Books, 2011.
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=WzXWMB2XgKSWi2nD&amp;list=PLFbVsjW_Z3X4prGlEimaE9L-NOIGVbuiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
