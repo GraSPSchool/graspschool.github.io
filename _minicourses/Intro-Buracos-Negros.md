@@ -36,3 +36,7 @@ Estas são as referências principais que embasam o curso, mas sua abordagem é 
 
 1. Robert M. Wald. *[General Relativity](https://doi.org/10.7208/chicago/9780226870373.001.0001)*. Chicago, IL: The University of Chicago Press, 1984.
 2. Stephen W. Hawking e George F. R. Ellis. [*The Large Scale Structure of Spacetime*](https://doi.org/10.1017/CBO9780511524646). Cambridge Monographs on Mathematical Physics. Cambridge: Cambridge University Press, 1973.
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=o_CqZ-c7Ch5Vkr-H&amp;list=PLFbVsjW_Z3X4LoXpypv6bZEbInNYOGPcy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
