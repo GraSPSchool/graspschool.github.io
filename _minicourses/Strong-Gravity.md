@@ -30,3 +30,7 @@ Stellar Orbits around galactic center: We will use data from the paper "An Updat
 BH Shadows: 
 1. Volker Perlick and Oleg Yu. Tsupko, "Calculating black hole shadows: Review of analytical studies," [*Physics Reports* **947**, 1–39 (2022)](https://doi.org/10.1016/j.physrep.2021.10.004). arXiv: [2105.07101 [gr-qc]](https://arxiv.org/abs/2105.07101).
 2. Gonzalo J. Olmo, João Luís Rosa, Diego Rubiera-Garcia, and Diego Sáez-Chillón Gómez, "Shadows and photon rings of regular black holes and geonic horizonless compact objects," [_Classical and Quantum Gravity_ **40**, 174002 (2023)](https://doi.org/10.1088/1361-6382/aceacd). arXiv: [2302.12064 [gr-qc]](https://arxiv.org/abs/2302.12064).
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=0Bal_IH8kduj1oyl&amp;list=PLFbVsjW_Z3X7-RcxlnNlgqwRWVUJODx6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
