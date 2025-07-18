@@ -29,3 +29,7 @@ coursetype: intermediate
 **Resources:**
 
 * Lectures 1 and 2: [lecture notes](https://graspschool.github.io/2025/files/twistors_lectures1&2.pdf)
+
+**Recordings:**
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=2NgmQC7dGF_hWVew&amp;list=PLFbVsjW_Z3X6bZJVaSHeY0FStfQym5-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
