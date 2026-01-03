@@ -1,6 +1,16 @@
 theme: jekyll-theme-midnight
 title: GraSP
-description: 
+description: Official website for the São Paulo School on Gravitational Physics
+plugins:
+  - jekyll-seo-tag
+email: graspschool@gmail.com
+
+socials:
+  - label: 'YouTube'
+    src: https://www.youtube.com/channel/UCX13hxDoULJQisYEwBKpwfg
+    sort: 'youtube'
+    icon: 'fa-brands fa-youtube'
+    show: true
 
 grasp1title: I São Paulo School on Gravitational Physics
 grasp2title: II São Paulo School on Gravitational Physics
@@ -15,16 +25,16 @@ collections:
     
 defaults:
   - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
       path: "2024"
     values:
-      layout: "grasp1"
+      year: "2024"
       show: true
   - scope:
       path: "2025"
       show: true
     values:
-      layout: "grasp2"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+      year: "2025"

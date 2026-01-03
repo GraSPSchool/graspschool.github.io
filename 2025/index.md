@@ -1,5 +1,5 @@
 ---
-layout: grasp2
+year: '2025'
 ---
 ## Home
 

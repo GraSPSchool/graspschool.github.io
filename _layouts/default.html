@@ -4,60 +4,108 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/logo.ico">
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
+    {% seo %}
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}"><!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"> <!--academicons-->
+    <script src="https://kit.fontawesome.com/9b896b7a03.js" crossorigin="anonymous"></script> <!--fontawesome-->
+
+    <!-- Scripts -->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    <!-- MathJax -->
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          tags: 'ams'
+        }
+      };
+    </script>
+    <script id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+    </script>
+
+    <!-- Mobile Hamburger Toggle -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const navToggle = document.getElementById('nav-toggle');
+        const navList = document.querySelector('.nav-list');
+
+        navToggle.addEventListener('click', () => {
+          navList.classList.toggle('show');
+        });
+
+        document.querySelectorAll('.parent-toggle').forEach(toggle => {
+          toggle.addEventListener('click', (e) => {
+            e.preventDefault();
+            toggle.parentElement.classList.toggle('show');
+          });
+        });
+      });
+    </script>
+
+    <!-- Edition -->
+    {% assign edition = site.data.editions[page.year] %}
   </head>
-  <body><center>
-      <!--<div id="header">-->
-      <!--<div>
-        <nav id="Menu">
-          <a href="{{ site.url }}"><button class="navbutton">Home</button></a>
-	        <a href="{{ site.url }}/2024"><button class="navbutton">Current Edition</button></a>
-        </nav>-->
 
+  <body>
+    <!-- Navigation -->
+    <nav id="Menu">
+      <button id="nav-toggle" aria-label="Toggle menu">☰</button>
+      <ul class="nav-list">
+        <li><a href="{{ site.url }}/{{ edition.year }}">Home</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="parent-toggle">Minicourses</a>
+          <ul class="dropdown-content">
+            <li><a href="{{ site.url }}/{{ edition.year }}/minicourses">{{ edition.year }}</a></li>
+            <li><a href="{{ site.url }}/minicourses/all">Previous</a></li>
+          </ul>
+        </li>
+
+        <li><a href="{{ site.url }}/{{ edition.year }}/calendar/">Calendar</a></li>
+
+        <li><a href="{{ site.url }}/{{ edition.year }}/registration/">Registration</a></li>
+
+        <li><a href="{{ site.url }}/{{ edition.year }}/organizers/">Organizers</a></li>
+
+        <li><a href="{{ site.url }}/{{ edition.year }}/acknowledgments/">Acknowledgments</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main Content -->
     <div class="wrapper">
-
       <section>
-        <div id="title">
-          <h1 style="font-weight: 500">{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div  id="title">
+          <h1 style="font-weight: 500">{{ edition.short_name | default: "GraSP" }}</h1>
+          <p>Official website for the {{ edition.full_name | default: "São Paulo School on Gravitational Physics" }}</p>
           <hr>
-          <span class="credits left">Page by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme based on "Midnight", by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <span class="credits left">Hosted on GitHub Pages</span>
+          <span class="credits right">Theme based on "Midnight", by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
-
+        
         {{ content }}
 
       </section>
-
     </div>
 
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-  </center>
-  <footer>
-		<center>
-			<address>São Paulo School in Gravitational Physics 
-			    <br/><a href="mailto:graspschool@gmail.com">graspschool@gmail.com</a>
-			</address>
-		</center>
-	</footer>
+    <!-- Footer -->
+    <footer>
+      <address>{{ edition.full_name | default: "São Paulo School on Gravitational Physics" }} 
+        <br/><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <br/>
+          {% for sponsor in edition.sponsors -%}
+            <a href="{{ sponsor.src }}" target="_blank">{{ sponsor.name }}</a><br/>
+          {% endfor %}
+          {%- assign visible_socials = site.socials | where: "show", true -%}
+          {%- assign sorted_socials = visible_socials | sort: "sort" -%}
+          {%- for social in sorted_socials %}
+            <a href="{{ social.src }}" target="_blank" title="{{ social.label }}"><span class="{{ social.icon }}" style="font-size: 18px"></span></a>  
+          {% endfor -%}
+      </address>
+    </footer>
   </body>
 </html>

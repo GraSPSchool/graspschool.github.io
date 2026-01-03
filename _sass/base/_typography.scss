@@ -1,0 +1,78 @@
+body {
+    padding:0px 0 20px 0px;
+    margin:0px;
+    font: #{$base-font-size}/#{$base-line-height} $font-regular;
+    color: $text-main;
+    font-weight:normal;
+    text-align: center;
+    background: $bg-main;
+    background-attachment:fixed !important;
+}
+
+a:link {
+    color: $accent-primary;
+}
+
+a:visited {
+    color: $accent-visited;
+}
+
+a:active, a:hover {
+    color: $accent-secondary;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:$text-dark;
+    margin:0 0 10px;
+    font-family:$font-regular;
+    font-weight:normal
+}
+
+section #title h1 {
+    font-family: $font-light;
+    font-weight:normal;
+    font-size:40px;
+    text-align:center;
+    color: $text-dark;
+    line-height:36px
+}
+
+section #title p {
+    color:$text-main;
+    font-family: $font-light;
+    font-weight:normal;
+    font-size:18px;
+    text-align:center
+}
+
+section #title .credits {
+    font-size:11px;
+    font-family:$font-regular;
+    font-weight:normal;
+    color:$text-muted;
+    margin-top:-10px
+}
+
+p, ul, ol {
+    text-align:justify;
+}
+
+strong {
+    font-family:$font-bold !important;
+    font-weight:normal
+}
+
+th {
+ text-align:left;
+ padding:5px 10px;
+ border-bottom:1px solid #424242;
+ color:$text-main;
+ font-family:$font-semibold !important;
+ font-weight:normal
+}
+
+dt {
+ color:$text-main;
+ font-family:$font-semibold !important;
+ font-weight:normal
+}
