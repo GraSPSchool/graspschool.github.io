@@ -3,7 +3,6 @@ title: Relatividade Restrita
 shortname: Relatividade Restrita
 schedule: 14 de julho a 18 de julho (5 aulas), todas às 16h00 (BRT)/19h00 (UTC)
 lecturer: Caio César Rodrigues Evangelista, BSc (UFC)
-layout: workshop2
 year: '2025'
 coursetype: introductory
 ---

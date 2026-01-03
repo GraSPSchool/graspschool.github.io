@@ -3,7 +3,6 @@ title: Introdução à Física de Buracos Negros
 shortname: Buracos Negros
 schedule: 14 de julho a 18 de julho (5 aulas), todas às 10h00 (BRT)/13h00 (UTC)
 lecturer: Níckolas de Aguiar Alves, MSc (UFABC)
-layout: workshop2
 year: '2025'
 coursetype: introductory
 ---
