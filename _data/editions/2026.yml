@@ -12,11 +12,3 @@ organizers:
 sponsors: 
   - name: 'ICTP Physics Without Frontiers'
     src: https://www.ictp.it/home/physics-without-frontiers
-
-sections:
-  - home
-  - minicourses
-  - calendar
-  - registration
-  - organizers
-  - acknowledgments

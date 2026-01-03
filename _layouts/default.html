@@ -48,7 +48,13 @@
     </script>
 
     <!-- Edition -->
-    {% assign edition = site.data.editions[page.year] %}
+    {% if page.year %}
+      {% assign page_year = page.year %}
+    {% else%}
+      {% assign parts = page.url | split: '/' %}
+      {% assign page_year = parts[1] %}
+    {% endif %}
+    {% assign edition = site.data.editions[page_year] %}
   </head>
 
   <body>

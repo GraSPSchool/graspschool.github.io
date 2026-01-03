@@ -57,6 +57,16 @@ p, ul, ol {
     text-align:justify;
 }
 
+section ul {
+  list-style-type: none;
+}
+
+section ul li::marker {
+  content: "» ";
+  color: $text-main;
+  font-weight: 600;
+}
+
 strong {
     font-family:$font-bold !important;
     font-weight:normal
@@ -65,14 +75,36 @@ strong {
 th {
  text-align:left;
  padding:5px 10px;
- border-bottom:1px solid #424242;
+ border-bottom:1px solid $text-main;
  color:$text-main;
  font-family:$font-semibold !important;
  font-weight:normal
 }
 
-dt {
- color:$text-main;
- font-family:$font-semibold !important;
- font-weight:normal
+dl.description {
+  margin: 1.5em 0;
+  text-align: justify;
+  line-height: 2.25em;
+}
+
+dl.description dt {
+  color: $text-main;
+  display: inline;
+  font-family:$font-semibold !important;
+  font-weight:normal;
+}
+
+dl.description dt::after {
+  content: ": ";
+}
+
+dl.description dd {
+  display: inline;
+  margin: 0 0 0.75em 0;
+  hyphens: auto;
+}
+
+dl.description dd::after {
+  content: "\A";
+  white-space: pre;
 }

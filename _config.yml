@@ -18,9 +18,6 @@ github:
 collections:
   minicourses:
     output: true
-  sections:
-    output: true
-    permalink: /:year/:name/
     
 defaults:
   - scope:
@@ -28,12 +25,6 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "2024"
+      type: minicourses
     values:
-      year: '2024'
-      show: true
-  - scope:
-      path: "2025"
-      show: true
-    values:
-      year: '2025'
+      layout: "workshop"
