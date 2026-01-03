@@ -139,8 +139,17 @@ resources:
   - title: "Lecture notes (original version)"
     src: "https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
 
-  - title: "Lecture notes (extended version)"
-    src: "https://arxiv.org/abs/2504.12521"
+  - bibitem: true
+    sortkey: aguiaralves2026lecturesBMSgroup
+    type: article
+    author:
+      - name: "Níckolas de Aguiar Alves"
+    title: "Lectures on the Bondi–Metzner–Sachs group and related topics in infrared physics"
+    journal: "The European Physical Journal C"
+    date: 2026-01-01
+    arxiv: "2504.12521"
+    arxivclass: "gr-qc"
+    pubstate: forthcoming
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=q_gZclYINu6jd-HX&list=PLFbVsjW_Z3X7D8P0jEueiWgLdm073sXc9

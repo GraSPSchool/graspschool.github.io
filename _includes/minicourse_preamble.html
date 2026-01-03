@@ -49,7 +49,11 @@
     <dt>{{ terms.resources }}</dt> <dd>
         <ul>
         {% for resource in page.resources %}
+            {%- if resource.bibitem -%}
+            <li>{%- include bibitem.html entry=resource -%}</li>
+            {%- else -%}
             <li><a href="{{ resource.src }}" target="_blank">{{ resource.title }}</a></li>
+            {%- endif -%}
         {% endfor %}
         </ul>
     </dd>
