@@ -82,9 +82,12 @@ th {
 }
 
 dl.description {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.5em;
+  row-gap: 0.75em;
   margin: 1.5em 0;
-  text-align: justify;
-  line-height: 2.25em;
+  line-height: 1.6em;
 }
 
 dl.description dt {
@@ -92,6 +95,7 @@ dl.description dt {
   display: inline;
   font-family:$font-semibold !important;
   font-weight:normal;
+  text-align: right;
 }
 
 dl.description dt::after {
@@ -99,12 +103,20 @@ dl.description dt::after {
 }
 
 dl.description dd {
-  display: inline;
-  margin: 0 0 0.75em 0;
+  display: inline-block;
+  margin: 0;
+  vertical-align: top;
+  text-align: justify;
   hyphens: auto;
 }
 
 dl.description dd::after {
-  content: "\A";
-  white-space: pre;
+  content: "";
+  display: block;
+}
+
+dl.description dd > ul,
+dl.description dd > ol {
+  margin: 0.25em 0 0;
+  padding-left: 1.2em;
 }

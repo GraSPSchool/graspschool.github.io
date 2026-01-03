@@ -1,0 +1,62 @@
+{% assign page = include.page %}
+
+{%- assign terms=site.data.minicourse_metadata[page.langid] -%}
+
+<dl class="description">
+    <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} (<a href="{{ page.lecturer.affiliation.website }}">{{ page.lecturer.affiliation.name }}</a>)</dd>
+    <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
+    {%- if page.schedule -%}
+    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end %} ({{ page.schedule.classes }} {{ terms.classes}}
+        {%- if page.schedule.certificate -%}
+            , {{ terms.mandatory_attendance_in }} {{ page.schedule.certificate.min_classes }} {{ terms.for_a_certificate }}
+        {%- endif -%}
+    )</dd>
+    <dt>{{ terms.time }}</dt> <dd>{{ page.schedule.time.brt }} (BRT)/{{ page.schedule.time.utc }} (UTC)</dd>
+    {%- endif -%}
+    {%- if page.workload -%}
+    <dt>{{ terms.workload }}</dt> <dd>{{ page.workload }}</dd>
+    {%- endif -%}
+    {%- if page.topics -%}
+    <dt>{{ terms.topics }}</dt> <dd>
+        <ul>
+            {% for topic in page.topics %}
+                <li>{{ topic }}</li>
+            {% endfor %}
+        </ul>
+    </dd>
+    {% endif %}
+    {%- if page.overview -%}
+    <dt>{{ terms.overview }}</dt> <dd>{{ page.overview }}</dd>
+    {%- endif -%}
+    {%- if page.prerequisites -%}
+    <dt>{{ terms.prerequisites }}</dt> <dd>{{ page.prerequisites }}</dd>
+    {%- endif -%}
+    {%- if page.bibliography or page.bibliography_intro -%}
+        <dt>{{ terms.bibliography }}</dt> <dd>
+            {%- if page.bibliography_intro -%}
+                {{ page.bibliography_intro}}
+            {%- endif -%}
+            {%- if page.bibliography -%}
+                <ul>
+                {% for entry in page.bibliography %}
+                    <li>{%- include bibitem.html entry=entry -%}</li>
+                {% endfor %}
+                </ul>
+            {%- endif -%}
+        </dd>
+    {% endif %}
+    {%- if page.resources -%}
+    <dt>{{ terms.resources }}</dt> <dd>
+        <ul>
+        {% for resource in page.resources %}
+            <li><a href="{{ resource.src }}" target="_blank">{{ resource.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </dd>
+    {% endif %}
+    {%- if page.videorecordings -%}
+    <dt>{{ terms.recordings }}</dt> <dd>
+        <iframe src="{{ page.videorecordings.src }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </dd>
+    {%- endif -%}
+</dl>

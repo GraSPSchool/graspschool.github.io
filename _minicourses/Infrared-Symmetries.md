@@ -1,9 +1,87 @@
 ---
 title: Infrared Symmetries of General Relativity
 shortname: Infrared Symmetries
-schedule: July 15 to July 19 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
-lecturer: Níckolas de Aguiar Alves, MSc (UFABC)
 year: '2024'
+langid: 'en'
+
+lecturer:
+    name: Níckolas de Aguiar Alves
+    suffix: MSc
+    website: https://aguiaralves.com
+    inspire: 
+    orcid: 
+    affiliation:
+        name: UFABC
+        website: https://fisica.ufabc.edu.br
+
+schedule:
+    start: 2024-07-15
+    end: 2024-07-19
+    classes: '5'
+    time:
+        brt: "16h00"
+        utc: "19h00"
+    certificate:
+        min_classes: '4'
+
+workload: "10h"
+
+topics:
+  - "Symmetries and groups in fundamental physics"
+  - "Lorentz and Poincaré groups"
+  - "Maps between manifolds and diffeomorphisms"
+  - "Lie derivative"
+  - "Conformal infinity in Minkowski spacetime"
+  - "Asymptotically flat spacetimes"
+  - "Carrollian structure of conformal infinity"
+  - "Symmetries of conformal infinity and the BMS group"
+  - "Applications"
+
+prerequisites: >
+  A standard introductory course in general relativity.
+
+bibliography_intro: >
+  These are the main references for the course. A complete list of references
+  is available in the lecture notes.
+
+bibliography:
+  - authors: "Robert M. Wald"
+    title: "General Relativity"
+    publisher: "University of Chicago Press"
+    year: "1984"
+
+  - authors: "Stephen W. Hawking and George F. R. Ellis"
+    title: "The Large Scale Structure of Spacetime"
+    doi: "10.1017/CBO9780511524646"
+    year: "1973"
+
+  - authors: "Roger Penrose"
+    title: "Asymptotic Properties of Fields and Space-Times"
+    journal: "Physical Review Letters"
+    volume: "10"
+    issue: "2"
+    pages: "66–68"
+    year: "1963"
+    doi: "10.1103/PhysRevLett.10.66"
+
+  - authors: "C. Duval et al."
+    title: "Carroll versus Newton and Galilei"
+    journal: "Classical and Quantum Gravity"
+    volume: "31"
+    issue: "8"
+    year: "2014"
+    doi: "10.1088/0264-9381/31/8/085016"
+    arxiv: "1402.0657"
+
+resources:
+  - title: "Lecture Notes (Original Version)"
+    src: "https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
+
+  - title: "Lecture Notes (Extended Version)"
+    src: "https://arxiv.org/abs/2504.12521"
+
+videorecordings:
+    src: https://www.youtube.com/embed/videoseries?si=q_gZclYINu6jd-HX&list=PLFbVsjW_Z3X7D8P0jEueiWgLdm073sXc9
 ---
 
 **Lecturer:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](fisica.ufabc.edu.br))

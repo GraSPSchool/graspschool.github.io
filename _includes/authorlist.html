@@ -1,0 +1,14 @@
+{%- assign authors = include.authorlist -%}
+{%- assign second_to_last=authors.size | minus: 1 -%}
+{%- for authorn in authors -%}
+    {%- include authorname.html author=authorn -%}
+    {%- if forloop.last -%}
+        
+    {%- elsif forloop.first and forloop.length==2 %}
+            and 
+    {% elsif forloop.index==second_to_last -%}
+        , and 
+    {% else -%}
+        , 
+    {% endif -%}
+{%- endfor -%}
