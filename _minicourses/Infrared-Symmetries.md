@@ -90,6 +90,7 @@ bibliography:
     journal: "Classical and Quantum Gravity"
     volume: "31"
     number: "8"
+    pages: "085016"
     date: 2014-04-21
     doi: "10.1088/0264-9381/31/8/085016"
     arxiv: "1402.0657"
@@ -105,6 +106,7 @@ bibliography:
     journal: "Classical and Quantum Gravity"
     volume: "31"
     number: "9"
+    pages: "092001"
     date: 2014-05-07
     doi: "10.1088/0264-9381/31/9/092001"
     arxiv: "1402.5894"
