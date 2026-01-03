@@ -24,8 +24,8 @@ year: '2024'
 
 **Resources:**
 
-* Lecture 1: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec1.pdf)
-* Lecture 2: [slideshow](https://graspschool.github.io/2024/files/Early_Universe_Lec2.pdf)
+* Lecture 1: [slideshow]({{ site.baseurl }}/2024/files/Early_Universe_Lec1.pdf)
+* Lecture 2: [slideshow]({{ site.baseurl }}/2024/files/Early_Universe_Lec2.pdf)
 
 **Recordings:**
 

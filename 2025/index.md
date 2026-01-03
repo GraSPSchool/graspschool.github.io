@@ -4,7 +4,7 @@ year: '2025'
 ## Home
 
 <div align="center">
-  <img src="https://graspschool.github.io//logo.svg" alt="GraSP Logo" width="300">
+  <img src="{{ site.baseurl }}//logo.svg" alt="GraSP Logo" width="300">
 </div>
 
 Join us once more for a week of general relativity and gravitation studies! 

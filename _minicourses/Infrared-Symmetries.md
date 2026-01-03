@@ -137,7 +137,7 @@ bibliography:
 
 resources:
   - title: "Lecture notes (original version)"
-    src: "https://graspschool.github.io/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
+    src: "/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
 
   - bibitem: true
     sortkey: aguiaralves2026lecturesBMSgroup

@@ -19,7 +19,7 @@ coursetype: introductory
 
 **Bibliografia:**
 
-As notas de aula (em inglês) estão disponíveis [neste link](https://graspschool.github.io/2025/files/blackholes.pdf).
+As notas de aula (em inglês) estão disponíveis [neste link]({{ site.baseurl }}/2025/files/blackholes.pdf).
 
 Os seguintes livros discutem relatividade geral (e buracos negros) a um nível mais voltado ao público geral e podem ser interessantes.
 
