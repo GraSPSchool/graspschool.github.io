@@ -5,7 +5,7 @@ schedule: cancelled
 lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 published: false
 layout: workshop1
-eventcode: grasp1
+year: 2024
 ---
 
 **Lecturer:** Dr. André Zamorano Vitorelli, PhD (NASA/JPL)

@@ -12,16 +12,15 @@ socials:
     icon: 'fa-brands fa-youtube'
     show: true
 
-grasp1title: I São Paulo School on Gravitational Physics
-grasp2title: II São Paulo School on Gravitational Physics
-
-
 github:
   is_project_page: false
 
 collections:
   minicourses:
     output: true
+  sections:
+    output: true
+    permalink: /:year/:name/
     
 defaults:
   - scope:
@@ -31,10 +30,10 @@ defaults:
   - scope:
       path: "2024"
     values:
-      year: "2024"
+      year: 2024
       show: true
   - scope:
       path: "2025"
       show: true
     values:
-      year: "2025"
+      year: 2025

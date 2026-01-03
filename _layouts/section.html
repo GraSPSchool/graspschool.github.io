@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{% assign edition = site.data.editions[page.edition] %}
+{% assign page = page | merge: { "year": edition.year } %}
+
+
+<p>JSONIFY: </p>
+<pre>{{ edition | jsonify }}</pre>
+
+{{ content }}

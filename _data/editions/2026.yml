@@ -1,0 +1,22 @@
+year: 2026
+short_name: III GraSP
+full_name: III São Paulo School on Gravitational Physics
+
+organizers:
+  - nick
+  - bruno
+  - caio
+  - rafael
+  - clara
+
+sponsors: 
+  - name: 'ICTP Physics Without Frontiers'
+    src: https://www.ictp.it/home/physics-without-frontiers
+
+sections:
+  - home
+  - minicourses
+  - calendar
+  - registration
+  - organizers
+  - acknowledgments
