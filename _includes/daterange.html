@@ -1,20 +1,73 @@
-{%- assign start = include.start -%}
-{%- assign end = include.end -%}
+{%- if include.list -%}
 
-{%- assign s_day = start | date: "%d" -%}
-{%- assign s_month = start | date: "%b" -%}
-{%- assign s_year = start | date: "%Y" -%}
+  {%- assign dates = include.list | sort -%}
 
-{%- assign e_day = end | date: "%d" -%}
-{%- assign e_month = end | date: "%b" -%}
-{%- assign e_year = end | date: "%Y" -%}
+  {%- assign current_year = "" -%}
+  {%- assign current_month = "" -%}
+  {%- assign days = "" -%}
 
-{%- if start == end -%}
-  {{ s_day }} {{ s_month }} {{ s_year }}
-{%- elsif s_year == e_year and s_month == e_month -%}
-  {{ s_day }}–{{ e_day }} {{ s_month }} {{ s_year }}
-{%- elsif s_year == e_year -%}
-  {{ s_day }} {{ s_month }}–{{ e_day }} {{ e_month }} {{ s_year }}
-{%- else -%}
-  {{ s_day }} {{ s_month }} {{ s_year }}–{{ e_day }} {{ e_month }} {{ e_year }}
+  {%- for d in dates -%}
+    {%- assign y = d | date: "%Y" -%}
+    {%- assign m = d | date: "%m" -%}
+    {%- assign mname = d | date: "%b" -%}
+    {%- assign day = d | date: "%d" -%}
+
+    {%- if current_year == "" -%}
+      {%- assign current_year = y -%}
+      {%- assign current_month = m -%}
+      {%- assign current_month_name = mname -%}
+      {%- assign days = day -%}
+
+    {%- elsif y == current_year and m == current_month -%}
+      {%- assign days = days | append: "," | append: day -%}
+
+    {%- else -%}
+      {%- comment -%} Flush previous group {%- endcomment -%}
+      {%- include daterange_days.html
+          days=days
+          month=current_month_name
+          year=current_year
+      -%};
+      {%- assign current_year = y -%}
+      {%- assign current_month = m -%}
+      {%- assign current_month_name = mname -%}
+      {%- assign days = day -%}
+    {%- endif -%}
+
+    {%- if forloop.last -%}
+      {%- include daterange_days.html
+          days=days
+          month=current_month_name
+          year=current_year
+      -%}
+    {%- endif -%}
+
+  {%- endfor -%}
+
+{%- elsif include.start -%}
+  {%- assign start = include.start -%}
+
+  {%- assign s_day = start | date: "%d" -%}
+  {%- assign s_month = start | date: "%b" -%}
+  {%- assign s_year = start | date: "%Y" -%}
+
+  {%- if include.end -%}
+    {%- assign end = include.end -%}
+
+    {%- assign e_day = end | date: "%d" -%}
+    {%- assign e_month = end | date: "%b" -%}
+    {%- assign e_year = end | date: "%Y" -%}
+
+    {%- if start == end -%}
+      {{ s_day }} {{ s_month }} {{ s_year }}
+    {%- elsif s_year == e_year and s_month == e_month -%}
+      {{ s_day }}–{{ e_day }} {{ s_month }} {{ s_year }}
+    {%- elsif s_year == e_year -%}
+      {{ s_day }} {{ s_month }}–{{ e_day }} {{ e_month }} {{ s_year }}
+    {%- else -%}
+      {{ s_day }} {{ s_month }} {{ s_year }}–{{ e_day }} {{ e_month }} {{ e_year }}
+    {%- endif -%}
+  {%- else -%}
+    {{ s_day }} {{ s_month }} {{ s_year }}
+  {%- endif -%}
 {%- endif -%}

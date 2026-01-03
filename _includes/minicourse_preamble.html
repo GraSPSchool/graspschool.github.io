@@ -6,7 +6,7 @@
     <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} (<a href="{{ page.lecturer.affiliation.website }}">{{ page.lecturer.affiliation.name }}</a>)</dd>
     <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
     {%- if page.schedule -%}
-    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end %} ({{ page.schedule.classes }} {{ terms.classes}}
+    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end list=page.schedule.list %} ({{ page.schedule.classes }} {{ terms.classes}}
         {%- if page.schedule.certificate -%}
             , {{ terms.mandatory_attendance_in }} {{ page.schedule.certificate.min_classes }} {{ terms.for_a_certificate }}
         {%- endif -%}

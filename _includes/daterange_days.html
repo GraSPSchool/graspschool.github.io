@@ -1,0 +1,14 @@
+{%- assign daylist = include.days | split: "," -%}
+
+{%- for d in daylist -%}
+  {%- if forloop.first -%}
+    {{ d }}
+  {%- elsif forloop.last -%}
+    {%- if daylist.size > 2 -%}, and {{ d }}
+    {%- else -%} and {{ d }}
+    {%- endif -%}
+  {%- else -%}
+    , {{ d }}
+  {%- endif -%}
+{%- endfor %}
+ {{ include.month }} {{ include.year }}
