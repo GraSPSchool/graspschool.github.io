@@ -1,27 +1,96 @@
 ---
 title: Gravitational Lenses (Cancelled)
 shortname: Gravitational Lenses
-schedule: cancelled
-lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
-published: false
 year: '2024'
+langid: 'en'
+published: false
+
+lecturer:
+    name: André Zamorano Vitorelli
+    suffix: PhD
+    affiliation:
+        - name: NASA/JPL
+          country: USA
+
+topics:
+    - "Introduction, history, propagation of light in curved spaces."
+    - "Study of the lens equation and its consequences."
+    - "Strong gravitational lenses: gravitational arcs, supernovae and multiple imaging, microlenses."
+    - "Weak gravitational lenses: galaxy clusters, galaxy-galaxy."
+    - "Short review of cosmology, cosmic shear, open problems. "
+
+prerequisites: >
+  A standard introductory course in general relativity.
+
+bibliography:
+  - sortkey: schneider1992gravitationallenses
+    type: book
+    author:
+      - name: "Peter Schneider"
+      - name: "Jürgen Ehlers"
+      - name: "Emilio E. Falco"
+    title: "Gravitational Lenses"
+    series: "Astronomy and Astrophysics Library"
+    publisher: "Springer"
+    location: "Berlin"
+    date: 1992-01-01
+    doi: "10.1007/978-3-662-03758-4"
+
+  - sortkey: schneider2006weaklensing
+    type: incollection
+    author:
+      - name: "Peter Schneider"
+    title: "Weak Gravitational Lensing"
+    booktitle: "Gravitational Lensing: Strong, Weak and Micro"
+    series: "Saas-Fee Advanced Course"
+    volume: "33"
+    publisher: "Springer"
+    location: "Berlin"
+    pages: "269–451"
+    date: 2006-01-01
+    doi: "10.1007/978-3-540-30310-7_3"
+    arxiv: "astro-ph/0509252"
+    arxivclass: "astro-ph"
+
+  - sortkey: kilbinger2015cosmicShearReview
+    type: article
+    author:
+      - name: "Martin Kilbinger"
+    title: "Cosmology with Cosmic Shear Observations: A Review"
+    journal: "Reports on Progress in Physics"
+    volume: "78"
+    number: "8"
+    pages: "086901"
+    date: 2015-01-01
+    doi: "10.1088/0034-4885/78/8/086901"
+    arxiv: "1411.0115"
+    arxivclass: "astro-ph.CO"
+
+  - sortkey: mandelbaum2018weaklensingprecision
+    type: article
+    author:
+      - name: "Rachel Mandelbaum"
+    title: "Weak Lensing for Precision Cosmology"
+    journal: "Annual Review of Astronomy and Astrophysics"
+    volume: "56"
+    number: "1"
+    pages: "393–433"
+    date: 2018-01-01
+    doi: "10.1146/annurev-astro-081817-051928"
+    arxiv: "1710.03235"
+    arxivclass: "astro-ph.CO"
+
+  - sortkey: umetsu2020clustergalaxyweaklensing
+    type: article
+    author:
+      - name: "Keiichi Umetsu"
+    title: "Cluster-Galaxy Weak Lensing"
+    journal: "The Astronomy and Astrophysics Review"
+    volume: "28"
+    number: "1"
+    pages: "7"
+    date: 2020-01-01
+    doi: "10.1007/s00159-020-00129-w"
+    arxiv: "2007.00506"
+    arxivclass: "astro-ph.CO"
 ---
-
-**Lecturer:** Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
-
-**Schedule:** cancelled
-
-**Workload:** cancelled
-
-**Topics:** 1. Introduction, history, propagation of light in curved spaces. 2. Study of the lens equation and its consequences. 3. Strong gravitational lenses: gravitational arcs, supernovae and multiple imaging, microlenses. 4. Weak gravitational lenses: galaxy clusters, galaxy-galaxy. 5. Short review of cosmology, cosmic shear, open problems. 
-
-**Pre-requisites:** A standard introductory course in general relativity.
-
-**Bibliography:**
-
-1. Peter Schneider, Jürgen Ehlers e Emilio E. Falco. [*Gravitational Lenses*](https://doi.org/10.1007/978-3-662-03758-4). Astronomy and
-Astrophysics Library. Berlin: Springer, 1992.
-1. Peter Schneider. [“Weak Gravitational Lensing”](https://doi.org/10.1007/978-3-540-30310-7_3). In: *Gravitational Lensing: Strong, Weak and Micro*. Saas-Fee Advanced Course 33. Berlin: Springer, 2006, pp. 269–451. arXiv: [astro-ph/0509252](https://arxiv.org/abs/astro-ph/0509252).
-2. Martin Kilbinger. [“Cosmology with Cosmic Shear Observations: A Review”. *Reports on Progress in Physics* **78**.8 (2015), 086901](https://doi.org/10.1088/0034-4885/78/8/086901). arXiv: [1411.0115 [astro-ph.CO]](https://arxiv.org/abs/1411.0115).
-3. Rachel Mandelbaum. [“Weak Lensing for Precision Cosmology”. *Annual Review of Astronomy and Astrophysics* **56**.1 (2018), pp. 393–433](https://doi.org/10.1146/annurev-astro-081817-051928). arXiv: [1710.03235 [astro-ph.CO]](https://arxiv.org/abs/1710.03235).
-4. Keiichi Umetsu. [“Cluster-Galaxy Weak Lensing”. *The Astronomy and Astrophysics Review* **28**.1 (2020), p. 7](https://doi.org/10.1007/s00159-020-00129-w). arXiv: [2007.00506[astro-ph.CO]](https://arxiv.org/abs/2007.00506).

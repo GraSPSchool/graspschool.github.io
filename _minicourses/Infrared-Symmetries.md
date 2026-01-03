@@ -74,7 +74,7 @@ bibliography:
     title: "Asymptotic Properties of Fields and Space-Times"
     journal: "Physical Review Letters"
     volume: "10"
-    issue: "2"
+    number: "2"
     pages: "66–68"
     date: 1963-01-15
     doi: "10.1103/PhysRevLett.10.66"
@@ -89,7 +89,7 @@ bibliography:
     title: "Carroll versus Newton and Galilei"
     journal: "Classical and Quantum Gravity"
     volume: "31"
-    issue: "8"
+    number: "8"
     date: 2014-04-21
     doi: "10.1088/0264-9381/31/8/085016"
     arxiv: "1402.0657"
@@ -104,7 +104,7 @@ bibliography:
     title: "Conformal Carrol groups and BMS symmetry"
     journal: "Classical and Quantum Gravity"
     volume: "31"
-    issue: "9"
+    number: "9"
     date: 2014-05-07
     doi: "10.1088/0264-9381/31/9/092001"
     arxiv: "1402.5894"
