@@ -30,10 +30,10 @@ defaults:
   - scope:
       path: "2024"
     values:
-      year: 2024
+      year: '2024'
       show: true
   - scope:
       path: "2025"
       show: true
     values:
-      year: 2025
+      year: '2025'

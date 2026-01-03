@@ -4,7 +4,7 @@ shortname: Strong Gravity
 schedule: July 14 to July 18 (5 classes), all at 10h00 (BRT)/13h00 (UTC)
 lecturer: "Prajwal Hassan Puttasiddappa, MSc (UFES and U. Oslo)"
 layout: workshop2
-year: 2025
+year: '2025'
 coursetype: intermediate
 ---
 

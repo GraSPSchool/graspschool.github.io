@@ -4,7 +4,7 @@ shortname: Infrared Symmetries
 schedule: July 15 to July 19 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
 lecturer: Níckolas de Aguiar Alves, MSc (UFABC)
 layout: workshop1
-year: 2024
+year: '2024'
 ---
 
 **Lecturer:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io) ([UFABC](fisica.ufabc.edu.br))

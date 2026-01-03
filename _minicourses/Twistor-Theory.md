@@ -4,7 +4,7 @@ shortname: Twistor Theory
 schedule: July 14 to July 18 (5 classes), all at 16h00 (BRT)/19h00 (UTC)
 lecturer: Rafael Grossi e Fonseca, MSc (IFUSP)
 layout: workshop2
-year: 2025
+year: '2025'
 coursetype: intermediate
 ---
 

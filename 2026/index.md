@@ -1,5 +1,5 @@
 ---
 layout: edition
-year: 2026
+year: '2026'
 permalink: /2026/
 ---

@@ -5,7 +5,7 @@ schedule: cancelled
 lecturer: Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
 published: false
 layout: workshop1
-year: 2024
+year: '2024'
 ---
 
 **Lecturer:** Dr. André Zamorano Vitorelli, PhD (NASA/JPL)
