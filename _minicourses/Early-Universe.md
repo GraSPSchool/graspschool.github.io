@@ -8,7 +8,8 @@ lecturer:
     name: Rosa Laura Lechuga Solis
     suffix: MSc
     affiliation: 
-        name: ICN-UNAM
+        - name: ICN-UNAM
+          country: Mexico
 
 schedule:
     start: 2024-07-15

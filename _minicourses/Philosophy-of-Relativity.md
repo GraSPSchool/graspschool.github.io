@@ -8,8 +8,8 @@ lecturer:
     name: Antonio Ferrero
     suffix: PhD
     affiliation: 
-        name: Utrecht University
-        country: Netherlands
+        - name: Utrecht University
+          country: Netherlands
 
 schedule: 
     list: 

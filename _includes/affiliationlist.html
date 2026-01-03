@@ -1,0 +1,15 @@
+{%- assign affiliations = include.affiliations -%}
+
+{%- assign second_to_last=affiliations.size | minus: 1 -%}
+{%- for affiliation in affiliations -%}
+    {%- include print_affiliation.html affiliation=affiliation -%}
+    {%- if forloop.last -%}
+        
+    {%- elsif forloop.first and forloop.length==2 %}
+            and 
+    {% elsif forloop.index==second_to_last -%}
+        , and 
+    {% else -%}
+        , 
+    {% endif -%}
+{%- endfor -%}

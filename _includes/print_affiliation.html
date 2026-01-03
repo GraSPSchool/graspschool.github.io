@@ -1,0 +1,10 @@
+{%- assign affiliation = include.affiliation -%}
+
+{%- if affiliation.website -%}
+    <a href="{{ affiliation.website }}">{{ affiliation.name }}</a>
+{%- else -%}
+    {{ affiliation.name }}
+{%- endif -%}
+{%- if affiliation.country -%}
+    , {{ affiliation.country }}
+{%- endif -%}

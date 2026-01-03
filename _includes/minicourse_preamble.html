@@ -3,7 +3,7 @@
 {%- assign terms=site.data.minicourse_metadata[page.langid] -%}
 
 <dl class="description">
-    <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} (<a href="{{ page.lecturer.affiliation.website }}">{{ page.lecturer.affiliation.name }}</a>)</dd>
+    <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} ({%- include affiliationlist.html affiliations=page.lecturer.affiliation -%})</dd>
     <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
     {%- if page.schedule -%}
     <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end list=page.schedule.list %} ({{ page.schedule.classes }} {{ terms.classes}}

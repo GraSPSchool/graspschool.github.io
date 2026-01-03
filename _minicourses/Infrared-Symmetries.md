@@ -11,8 +11,9 @@ lecturer:
     inspire: 
     orcid: 
     affiliation:
-        name: UFABC
-        website: https://fisica.ufabc.edu.br
+        - name: UFABC
+          country: Brazil
+          website: https://fisica.ufabc.edu.br
 
 schedule:
     start: 2024-07-15
