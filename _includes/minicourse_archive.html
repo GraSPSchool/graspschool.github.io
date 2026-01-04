@@ -1,0 +1,14 @@
+{% assign page = include.page %}
+
+{%- assign terms=site.data.minicourse_metadata[page.langid] -%}
+
+<dl class="description-simplified">
+    <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} ({%- include affiliationlist.html affiliations=page.lecturer.affiliation -%})</dd>
+    <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
+    {%- if page.workload -%}
+    <dt>{{ terms.workload }}</dt> <dd>{{ page.workload }}</dd>
+    {%- endif -%}
+    {%- if page.prerequisites -%}
+    <dt>{{ terms.prerequisites }}</dt> <dd>{{ page.prerequisites }}</dd>
+    {%- endif -%}
+</dl>

@@ -1,13 +1,12 @@
 ---
-title: Previous Minicourses
 layout: default
 ---
-
 <h1>Previous Minicourses</h1>
 
 <p>This is a list of all minicourses that have been taught at GraSP. Recordings from previous GraSP editions are available at our <a href="https://www.youtube.com/@GraSPSchool" target="_blank">YouTube channel</a>.</p>
 
-{% for minicourse in site.minicourses %}
+{%- assign minicourses = site.minicourses | where:"year",page.year -%}
+{% for minicourse in minicourses %}
     <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
-    <p><b>Lecturer:</b> {{ minicourse.lecturer }}</p>
+    {%- include minicourse_archive.html page=minicourse -%}
 {% endfor %}
