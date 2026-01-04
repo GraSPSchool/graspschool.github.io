@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>Acknowledgments</h1>
+
+{%- assign edition = site.data.editions[page.year] -%}
+
+{{ edition.acknowledgments | markdownify }}
+
+{% include logo_acknowledgment.html %}
