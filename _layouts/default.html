@@ -50,11 +50,11 @@
     <!-- Edition -->
     {% if page.year %}
       {% assign page_year = page.year %}
-    {% else%}
+    {% else %}
       {% assign parts = page.url | split: '/' %}
       {% assign page_year = parts[1] %}
     {% endif %}
-    {% assign edition = site.data.editions[page_year] %}
+    {% assign edition = site.data.editions[page_year] | default:site.data.editions[site.current_edition] %}
   </head>
 
   <body>

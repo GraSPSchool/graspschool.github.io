@@ -5,6 +5,8 @@ plugins:
   - jekyll-seo-tag
 email: graspschool@gmail.com
 
+current_edition: '2025'
+
 socials:
   - label: 'YouTube'
     src: https://www.youtube.com/channel/UCX13hxDoULJQisYEwBKpwfg
