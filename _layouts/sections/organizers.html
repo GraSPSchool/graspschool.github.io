@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>Organizers</h1>
+
+{%- assign edition = site.data.editions[page.year] -%}
+{%- assign organizers_objects = "" | split: "" -%}
+{%- for key in edition.organizers -%}
+  {%- assign organizers_objects = organizers_objects | push: site.data.organizers[key] -%}
+{%- endfor -%}
+{%- for organizer in organizers_objects -%}
+    <h2>{%- include authorname.html author=organizer -%}</h2>
+
+    <div class="organizer-picture">
+        <img src="{{ organizer.picture' | relative_url }}" alt="{{ organizer.short_name }}'s profile picture" width="200" height="200">
+    </div>
+
+    {{ organizer.description | markdownify }}
+{% endfor %}

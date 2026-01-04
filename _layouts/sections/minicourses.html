@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1>Minicourses</h1>
-{{ page.year | jsonify }}
 
 {%- assign minicourses = site.minicourses | where:"year",page.year -%}
 {% for minicourse in minicourses %}
