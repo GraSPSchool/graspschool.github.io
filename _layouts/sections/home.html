@@ -5,7 +5,7 @@ layout: default
 {%- assign edition = site.data.editions[page.year] -%}
 
 <div align="center">
-  <img src="{{ site.baseurl }}/assets/logo/logo.svg" alt="GraSP Logo" width="300">
+  <img src="{{ '/assets/logo/logo.svg' | relative_url }}" alt="GraSP Logo" width="300">
 </div>
 
 {{ content | markdownify }}
