@@ -9,33 +9,33 @@ organizers:
   - rafael
   - clara
 
-sponsors: 
-  - name: 'ICTP Physics Without Frontiers'
-    src: https://www.ictp.it/home/physics-without-frontiers
-    thank: pwf_activities
+# sponsors: 
+#   - name: 'ICTP Physics Without Frontiers'
+#     src: https://www.ictp.it/home/physics-without-frontiers
+#     thank: pwf_activities
   
-acknowledgments: >
-  It is a pleasure to thank the [ICTP Physics Without Frontiers](https://www.ictp.it/home/physics-without-frontiers) for its institutional support.
+# acknowledgments: >
+#   It is a pleasure to thank the [ICTP Physics Without Frontiers](https://www.ictp.it/home/physics-without-frontiers) for its institutional support.
 
 dates:
-  registration:
-    open: 2025-06-15
-    close: 2025-07-07
-  start: 2025-07-14
-  end: 2025-07-18
+  start: 2026-07-27
+  end: 2026-07-31
+  # registration:
+  #   open: 
+  #   close: 
 
-special_events:
-  - title: "Carreira e Oportunidades"
-    date: 2025-07-15
-    time:
-      brt: "14h00"
-      utc: "19h00"
-  - title: "Careers and Opportunities" 
-    date: 2025-07-17
-    time:
-      brt: "14h00"
-      utc: "19h00"
+# special_events:
+#   - title: "Carreira e Oportunidades"
+#     date: 
+#     time:
+#       brt: 
+#       utc: 
+#   - title: "Careers and Opportunities" 
+#     date: 
+#     time:
+#       brt: 
+#       utc: 
 
-registration:
-  src: https://forms.gle/31xLQHza94mnDwq98
-  embed: https://docs.google.com/forms/d/e/1FAIpQLScWQ3mtaxK184oTa8ZmkqL2hEWyNmLfE9GuSgbRXfGWSNxFoA/viewform?embedded=true
+# registration:
+#   src: 
+#   embed: 

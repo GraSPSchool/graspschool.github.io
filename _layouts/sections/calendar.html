@@ -6,8 +6,12 @@ layout: default
 {%- assign minicourses = site.minicourses | where:"year",page.year -%}
 
 <dl class="description">
-    <dt>{{ edition.short_name }}</dt> <dd>{% include daterange.html start=edition.dates.start end=edition.dates.end %}</dd>
-    <dt>Registration</dt> <dd>{% include daterange.html start=edition.dates.registration.open end=edition.dates.registration.close %}</dd>
+    {%- if edition.dates -%}
+        <dt>{{ edition.short_name }}</dt> <dd>{% include daterange.html start=edition.dates.start end=edition.dates.end %}</dd>
+        {%- if edition.dates.registration -%}
+            <dt>Registration</dt> <dd>{% include daterange.html start=edition.dates.registration.open end=edition.dates.registration.close %}</dd>
+        {%- endif -%}
+    {%- endif -%}
     {% for minicourse in minicourses %}
         <dt><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></dt> <dd>{% include daterange.html start=minicourse.schedule.start end=minicourse.schedule.end list=minicourse.schedule.list %} {%- if minicourse.schedule.time %} at {{ minicourse.schedule.time.brt }} (BRT)/{{ minicourse.schedule.time.utc }} (UTC){%- endif -%} </dd>
     {% endfor %}
