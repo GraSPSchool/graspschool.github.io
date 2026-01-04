@@ -1,3 +1,3 @@
 ---
-year: '2026'
+layout: sections/home
 ---

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>Home</h1>
+{%- assign edition = site.data.editions[page.year] -%}
+
+<div align="center">
+  <img src="{{ site.baseurl }}/logo.svg" alt="GraSP Logo" width="300">
+</div>
+
+{{ content | markdownify }}
+
+<p>All lectures will be held online, through Zoom, between {{ edition.dates.start | date:"%d %B"}} and {{ edition.dates.end | date:"%d %B, %Y"}}.</pp>
+
+{%- for sponsor in edition.sponsors -%}
+    {%- if sponsor.thank -%}
+        {%- include {{ sponsor.thank | append:".html" }} edition=edition -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- include logo_acknowledgment.html -%}
