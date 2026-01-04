@@ -145,4 +145,11 @@ nav a, nav a:link, nav a:visited, .parent-toggle {
     color: $bg-main;
     background-color: $accent-primary;
   }
+
+  .nav-list > li {
+    .dropdown-content a, &:hover .dropdown-content a {
+      background-color: $bg-main;  
+      color: $accent-primary;
+    }
+  }
 }
