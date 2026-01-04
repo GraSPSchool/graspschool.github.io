@@ -12,14 +12,12 @@ lecturer:
           country: The Netherlands
 
 schedule: 
-    list: 
-        - 2024-07-15
-        - 2024-07-17
-        - 2024-07-18
+    start: 2024-07-16
+    end: 2024-07-18
     classes: '3'
     time:
-        brt: "14h00"
-        utc: "17h00"
+        brt: "10h00"
+        utc: "13h00"
     certificate:
         min_classes: '3' 
 
