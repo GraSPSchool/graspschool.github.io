@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>Registration</h1>
+{%- assign edition = site.data.editions[page.year] -%}
+
+<p>Registration will be open from {{ edition.dates.registration.open | date:"%d %B"}} to {{ edition.dates.registration.close | date:"%d %B, %Y"}}.</p>
+
+<p>Please do not apply for two simultaneous courses. If it is found that you registered for two simultaneous courses and had the necessary attendance in both of them, none of the certificates will be issued.</p>
+
+<p>The lectures will be recorded unless the lecturer chooses otherwise. By registering for a course, you agree to this and to the video being later shared on YouTube.</p>
+
+<p>If you have any trouble with the embedded form below, you can also fill it out in <a href="{{ edition.registration.src }}" target="_blank">this link</a>.</p>
+
+<iframe src="{{ edition.registration.embed }}" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
