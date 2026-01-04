@@ -1,11 +1,3 @@
 ---
-title: Minicourses
+layout: sections/minicourses
 ---
-<h1>Minicourses</h1>
-
-{% for minicourse in site.minicourses %}
-  {% if minicourse.year contains '2025' %}
-    <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
-    {%- include minicourse_preview.html page=minicourse -%}
-  {% endif %}
-{% endfor %}
