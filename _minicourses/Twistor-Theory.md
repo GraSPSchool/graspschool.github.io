@@ -79,7 +79,7 @@ bibliography:
 
 resources:
     - title: Lecture notes (preliminary version covering classes 1 and 2)
-      src: /2025/files/twistors.pdf
+      src: /assets/2025/twistors.pdf
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=2NgmQC7dGF_hWVew&amp;list=PLFbVsjW_Z3X6bZJVaSHeY0FStfQym5-k4

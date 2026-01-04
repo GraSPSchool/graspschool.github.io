@@ -78,15 +78,15 @@ bibliography:
 
 resources:
     - title: Slideshow for lecture 1
-      src: "/2024/files/BHPT_Lecture_1.pdf"
+      src: "/assets/2024/BHPT_Lecture_1.pdf"
     - title: Slideshow for lecture 2
-      src: "/2024/files/BHPT_Lecture_2.pdf"
+      src: "/assets/2024/BHPT_Lecture_2.pdf"
     - title: Slideshow for lecture 3
-      src: "/2024/files/BHPT_Lecture_3.pdf"
+      src: "/assets/2024/BHPT_Lecture_3.pdf"
     - title: Slideshow for lecture 4
-      src: "/2024/files/BHPT_Lecture_4.pdf"
+      src: "/assets/2024/BHPT_Lecture_4.pdf"
     - title: Slideshow for lecture 5
-      src: "/2024/files/BHPT_Lecture_5.pdf"
+      src: "/assets/2024/BHPT_Lecture_5.pdf"
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=WgAYUlGaLd1s8qJ6&amp;list=PLFbVsjW_Z3X74xEZJqmvMIbT4CtT1SMJm

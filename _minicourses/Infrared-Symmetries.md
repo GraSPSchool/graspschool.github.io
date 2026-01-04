@@ -140,7 +140,7 @@ bibliography:
 
 resources:
   - title: "Lecture notes (original version)"
-    src: "/2024/files/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
+    src: "/assets/2024/To_Infinity_and_Beyond__An_Introduction_to_BMS_Symmetries.pdf"
 
   - bibitem: true
     sortkey: aguiaralves2026lecturesBMSgroup

@@ -59,9 +59,9 @@ bibliography:
 
 resources:
     - title: Slideshow for lecture 1
-      src: "/2024/files/Early_Universe_Lec1.pdf"
+      src: "/assets/2024/Early_Universe_Lec1.pdf"
     - title: Slideshow for lecture 2
-      src: "/2024/files/Early_Universe_Lec2.pdf"
+      src: "/assets/2024/Early_Universe_Lec2.pdf"
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=IMxhdqDTPQjMUEvX&amp;list=PLFbVsjW_Z3X4oNcHE8WN5gWDjGaUzZqfe

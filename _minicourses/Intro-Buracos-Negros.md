@@ -119,7 +119,7 @@ bibliography:
 
 resources:
     - title: Notas de aula (versão preliminar, em inglês)
-      src: /2025/files/blackholes.pdf
+      src: /assets/2025/blackholes.pdf
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=o_CqZ-c7Ch5Vkr-H&amp;list=PLFbVsjW_Z3X4LoXpypv6bZEbInNYOGPcy
