@@ -6,7 +6,6 @@ title: Minicourses
 {% for minicourse in site.minicourses %}
   {% if minicourse.year contains '2025' %}
     <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
-    <p><b>Lecturer:</b> {{ minicourse.lecturer }}</p>
-    <p><b>Schedule:</b> {{ minicourse.schedule }}</p>
+    {%- include minicourse_preview.html page=minicourse -%}
   {% endif %}
 {% endfor %}

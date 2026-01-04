@@ -82,6 +82,37 @@ th {
  font-weight:normal
 }
 
+dl.description-simplified {
+  display: block;
+  margin: 1.5em 0;
+  line-height: 1.6em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+dl.description-simplified dt {
+  color: $text-main;
+  display: inline;
+  font-family:$font-semibold !important;
+  font-weight:normal;
+  // text-align: justify;
+}
+
+dl.description-simplified dt::after {
+  content: ": ";
+}
+
+dl.description-simplified dd {
+  display: inline;
+  margin: 0;
+  // text-align: justify;
+}
+
+dl.description-simplified dd::after {
+  content: "\A";
+  white-space: pre;
+}
+
 dl.description {
   display: grid;
   grid-template-columns: max-content 1fr;

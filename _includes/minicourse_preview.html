@@ -1,0 +1,22 @@
+{% assign page = include.page %}
+
+{%- assign terms=site.data.minicourse_metadata[page.langid] -%}
+
+<dl class="description-simplified">
+    <dt>{{ terms.lecturer }}</dt> <dd>{% include authorname.html author=page.lecturer %} ({%- include affiliationlist.html affiliations=page.lecturer.affiliation -%})</dd>
+    <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
+    {%- if page.schedule -%}
+    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end list=page.schedule.list %} ({{ page.schedule.classes }} {{ terms.classes}}
+        {%- if page.schedule.certificate -%}
+            , {{ terms.mandatory_attendance_in }} {{ page.schedule.certificate.min_classes }} {{ terms.for_a_certificate }}
+        {%- endif -%}
+    )</dd>
+    <dt>{{ terms.time }}</dt> <dd>{{ page.schedule.time.brt }} (BRT)/{{ page.schedule.time.utc }} (UTC)</dd>
+    {%- endif -%}
+    {%- if page.workload -%}
+    <dt>{{ terms.workload }}</dt> <dd>{{ page.workload }}</dd>
+    {%- endif -%}
+    {%- if page.prerequisites -%}
+    <dt>{{ terms.prerequisites }}</dt> <dd>{{ page.prerequisites }}</dd>
+    {%- endif -%}
+</dl>
