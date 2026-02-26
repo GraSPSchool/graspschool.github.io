@@ -121,6 +121,20 @@ resources:
     - title: Notas de aula (versão preliminar, em inglês)
       src: /assets/2025/blackholes.pdf
 
+    - bibitem: true
+      sortkey: rodriguesevangelista2026usingthermodynamicslearn
+      type: article
+      author:
+        - name: "Caio César Rodrigues Evangelista"
+        - name: "Níckolas de Aguiar Alves"
+      title: "Using thermodynamics to learn gravitational wave physics"
+      journal: "European Journal of Physics"
+      doi: 10.1088/1361-6404/ae4951
+      date: 2026-02-24
+      arxiv: "2602.21261"
+      arxivclass: "gr-qc"
+      pubstate: forthcoming
+
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=o_CqZ-c7Ch5Vkr-H&amp;list=PLFbVsjW_Z3X4LoXpypv6bZEbInNYOGPcy
 
