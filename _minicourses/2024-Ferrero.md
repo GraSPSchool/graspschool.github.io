@@ -4,6 +4,8 @@ shortname: Philosophy of Relativity
 year: '2024'
 langid: 'en'
 
+sortkey: ferrero2024PhilosophyRelativity
+
 lecturer:
     name: Antonio Ferrero
     suffix: PhD

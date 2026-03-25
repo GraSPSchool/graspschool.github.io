@@ -4,6 +4,8 @@ shortname: Early Universe
 year: '2024'
 langid: 'en'
 
+sortkey: lechugasolis2024PhysicsEarlyUniverse
+
 lecturer:
     name: Rosa Laura Lechuga Solis
     suffix: MSc

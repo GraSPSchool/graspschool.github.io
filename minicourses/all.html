@@ -6,6 +6,7 @@ layout: default
 <p>This is a list of all minicourses that have been taught at GraSP. Recordings from previous GraSP editions are available at our <a href="https://www.youtube.com/@GraSPSchool" target="_blank">YouTube channel</a>.</p>
 
 {%- assign minicourses = site.minicourses | where:"year",page.year -%}
+{%- assign minicourses = minicourses | sort:"sortkey" | reverse | sort:"year" | reverse -%}
 {% for minicourse in minicourses %}
     <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
     {%- include minicourse_archive.html page=minicourse -%}

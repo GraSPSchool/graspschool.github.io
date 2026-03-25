@@ -4,6 +4,8 @@ shortname: Strong Gravity
 year: '2025'
 langid: 'en'
 
+sortkey: puttasiddappa2025StrongGravity
+
 lecturer:
     name: Prajwal Hassan Puttasiddappa
     suffix: MSc

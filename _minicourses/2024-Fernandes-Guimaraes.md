@@ -4,6 +4,8 @@ shortname: BH Perturbations
 year: '2024'
 langid: 'en'
 
+sortkey: fernandesguimares2024BlackHolePerturbation
+
 lecturer: 
     name: Vitor Fernandes Guimarães
     suffix: BSc

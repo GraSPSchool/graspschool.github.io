@@ -11,7 +11,9 @@
             , {{ terms.mandatory_attendance_in }} {{ page.schedule.certificate.min_classes }} {{ terms.for_a_certificate }}
         {%- endif -%}
     )</dd>
+    {%- if page.schedule.time -%}
     <dt>{{ terms.time }}</dt> <dd>{{ page.schedule.time.brt }} (BRT)/{{ page.schedule.time.utc }} (UTC)</dd>
+    {%- endif -%}
     {%- endif -%}
     {%- if page.workload -%}
     <dt>{{ terms.workload }}</dt> <dd>{{ page.workload }}</dd>

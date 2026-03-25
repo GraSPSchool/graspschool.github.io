@@ -4,6 +4,8 @@ shortname: Buracos Negros
 year: '2025'
 langid: 'pt'
 
+sortkey: aguiaralves2025IntroducaoFisicaBuracos
+
 lecturer:
     name: Níckolas de Aguiar Alves
     suffix: MSc

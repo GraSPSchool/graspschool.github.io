@@ -4,6 +4,8 @@ shortname: Infrared Symmetries
 year: '2024'
 langid: 'en'
 
+sortkey: aguiaralves2024InfraredSymmetriesGeneral
+
 lecturer:
     name: Níckolas de Aguiar Alves
     suffix: MSc

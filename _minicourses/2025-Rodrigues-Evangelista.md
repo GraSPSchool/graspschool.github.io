@@ -4,6 +4,8 @@ shortname: Relatividade Restrita
 year: '2025'
 langid: 'pt'
 
+sortkey: rodriguesevangelista2025RelatividadeRestrita
+
 lecturer:
     name: Caio César Rodrigues Evangelista
     suffix: BSc

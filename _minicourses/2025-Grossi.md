@@ -4,6 +4,8 @@ shortname: Twistor Theory
 year: '2025'
 langid: 'en'
 
+sortkey: grossi2025TwistorTheory
+
 lecturer:
     name: Rafael Grossi e Fonseca
     suffix: MSc

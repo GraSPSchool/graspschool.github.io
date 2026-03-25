@@ -5,6 +5,8 @@ year: '2024'
 langid: 'en'
 published: false
 
+sortkey: zamoranovitorelli2024GravitationalLenses
+
 lecturer:
     name: André Zamorano Vitorelli
     suffix: PhD

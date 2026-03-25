@@ -4,6 +4,7 @@ layout: default
 <h1>Minicourses</h1>
 
 {%- assign minicourses = site.minicourses | where:"year",page.year -%}
+{%- assign minicourses = minicourses | sort:"sortkey" | reverse | sort:"year" | reverse -%}
 {% for minicourse in minicourses %}
     <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
     {%- include minicourse_preview.html page=minicourse -%}
