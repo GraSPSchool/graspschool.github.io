@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>Home</h1>
-{%- assign edition = site.data.editions[page.year] -%}
+{% assign edition = site.data.editions[page_year] | default:site.data.editions[site.current_edition] %}
 
 <div align="center">
   <img src="{{ '/assets/logo/logo.svg' | relative_url }}" alt="GraSP Logo" width="300">
