@@ -50,3 +50,13 @@ clara:
   description: >
     Hi! I'm Clara, a theoretical physicist currently pursuing a PhD in the Astrophysics, Cosmology, and Gravitation program (PPGCosmo) at the Federal University of Espírito Santo (UFES), Brazil. I completed my MSc in Physics at the University of Valencia and earned my undergraduate degree in Physics Education from the University of Seville, both in Spain. Over the years, I've developed a strong foundation in theoretical physics, particularly in quantum field theory. These days, my research focuses on supersymmetry, with growing interests in supergravity and string theory. I'm also exploring more unconventional scenarios, including nonlinear electrodynamics and Lorentz symmetry violation.
   picture: "/assets/images/organizers/clara.png"
+
+thiago: 
+  name: Thiago T. Bergamaschi
+  short_name: Thiago
+  inspire: '2926414'
+  orcid: '0009-0006-5275-2919'
+  sort: 'bergamaschi'
+  description: >
+    I’m Thiago, a theoretical physicist and PhD student at the São Carlos Institute of Physics, University of São Paulo (IFSC/USP). I received my BSc from the Federal University of Santa Catarina and my MSc from IFSC/USP. My research lies in quantum field theory in curved spacetime, particularly the connections between black holes, thermodynamics, and quantum theory.
+  picture: "/assets/images/organizers/thiago.png"
