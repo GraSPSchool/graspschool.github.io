@@ -10,7 +10,7 @@ layout: default
 
 {{ content | markdownify }}
 
-<p>All lectures will be held online, through Zoom, between {{ edition.dates.start | date:"%d %B"}} and {{ edition.dates.end | date:"%d %B, %Y"}}.</pp>
+<p>All lectures will be held online, through Zoom, between {{ edition.dates.start | date:"%d %B"}} and {{ edition.dates.end | date:"%d %B, %Y"}}.</p>
 
 {%- for sponsor in edition.sponsors -%}
     {%- if sponsor.thank -%}
