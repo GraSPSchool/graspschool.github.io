@@ -1,9 +1,9 @@
 ---
-title: TBD
+title: Welcome to Celestial Holography
 year: '2026'
 langid: 'en'
 
-sortkey: grechko2026
+sortkey: grechko2026WelcomeCelestialHolography
 
 lecturer: 
     name: Agata Grechko
