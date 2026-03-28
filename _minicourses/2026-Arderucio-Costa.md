@@ -1,9 +1,9 @@
 ---
-title: TBD
+title: "One Field, Many Vacua: The Physics of Inequivalent Representations"
 year: '2026'
 langid: 'en'
 
-sortkey: arderuciocosta2026
+sortkey: arderuciocosta2026OneFieldMany
 
 lecturer: 
     name: Bruno Arderucio Costa
