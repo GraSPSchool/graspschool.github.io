@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: Estrelas Relativísticas
 year: '2026'
 langid: 'pt'
 
