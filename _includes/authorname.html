@@ -6,6 +6,8 @@
     <a href="https://inspirehep.net/authors/{{ author.inspire }}" target="_blank">{{ author.name }}</a>
 {%- elsif author.orcid -%}
     <a href="https://orcid.org/{{ author.orcid }}" target="_blank">{{ author.name }}</a>
+{%- elsif author.lattes -%}
+    <a href="http://lattes.cnpq.br/{{ author.orcid }}" target="_blank">{{ author.name }}</a>
 {%- else -%}
     {{ author.name }}
 {%- endif -%}

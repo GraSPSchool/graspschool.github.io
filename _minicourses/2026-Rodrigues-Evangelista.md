@@ -3,7 +3,7 @@ title: Estrelas Relativísticas
 year: '2026'
 langid: 'pt'
 
-sortkey: rodriguesevangelista2026
+sortkey: rodriguesevangelista2026EstrelasRelativisticas
 
 lecturer:
     name: Caio César Rodrigues Evangelista
@@ -19,6 +19,4 @@ schedule:
     classes: '4'
 
 workload: '8h'
-
-coursetype: introductory
 ---
