@@ -8,6 +8,7 @@ sortkey: rodriguesevangelista2026EstrelasRelativisticas
 lecturer:
     name: Caio César Rodrigues Evangelista
     suffix: BSc
+    inspire: '3123611'
     affiliation: 
         - name: UFC
           website: https://www.fisica.ufc.br/portal/en/front-page/

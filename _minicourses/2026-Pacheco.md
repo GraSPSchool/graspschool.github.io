@@ -8,6 +8,7 @@ sortkey: pacheco2026
 lecturer:
     name: Mayara Hilgert Pacheco
     suffix: MSc
+    lattes: '3308045238673497'
     affiliation: 
         - name: INPE
           website: https://www.gov.br/inpe/pt-br
