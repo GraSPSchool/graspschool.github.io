@@ -151,10 +151,13 @@ resources:
       - name: "Níckolas de Aguiar Alves"
     title: "Lectures on the Bondi–Metzner–Sachs group and related topics in infrared physics"
     journal: "The European Physical Journal C"
-    date: 2026-01-01
+    volume: '86'
+    number: '5'
+    pages: '507'
+    doi: '10.1140/epjc/s10052-025-15091-z'
+    date: 2026-05-11
     arxiv: "2504.12521"
     arxivclass: "gr-qc"
-    pubstate: forthcoming
 
 videorecordings:
     src: https://www.youtube.com/embed/videoseries?si=q_gZclYINu6jd-HX&list=PLFbVsjW_Z3X7D8P0jEueiWgLdm073sXc9
