@@ -16,8 +16,8 @@ lecturer:
           website: http://portal.if.usp.br/ifusp/en
 
 schedule:
-    start: 2026-07-27
-    end: 2026-07-30
+    start: 2026-07-13
+    end: 2026-07-16
     classes: '4'
 
 workload: "8h"

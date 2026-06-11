@@ -22,7 +22,18 @@
     <dt>{{ terms.topics }}</dt> <dd>
         <ul>
             {% for topic in page.topics %}
-                <li>{{ topic }}</li>
+                {% if topic.subtopics %}
+                    <li>
+                        {{ topic.title }}
+                            <ul>
+                                {% for sub in topic.subtopics %}
+                                    <li>{{ sub }}</li>
+                                {% endfor %}
+                            </ul>
+                    </li>
+                {% else %}
+                    <li>{{ topic }}</li>
+                {% endif %}
             {% endfor %}
         </ul>
     </dd>
