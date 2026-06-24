@@ -19,6 +19,9 @@ schedule:
     start: 2026-07-13
     end: 2026-07-16
     classes: '4'
+    time:
+    brt: "11h00"
+    utc: "14h00"
 
 workload: "8h"
 ---
