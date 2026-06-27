@@ -41,6 +41,9 @@
     {%- if page.overview -%}
     <dt>{{ terms.overview }}</dt> <dd>{{ page.overview }}</dd>
     {%- endif -%}
+    {%- if page.abstract -%}
+    <dt>{{ terms.abstract }}</dt> <dd>{{ page.abstract }}</dd>
+    {%- endif -%}
     {%- if page.prerequisites -%}
     <dt>{{ terms.prerequisites }}</dt> <dd>{{ page.prerequisites }}</dd>
     {%- endif -%}
