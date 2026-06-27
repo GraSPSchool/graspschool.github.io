@@ -30,7 +30,7 @@ topics:
     - the Unruh effect
     - one-particle Hilbert space structures 
     - Hamiltonian diagonalization
-    - applications to particular spacetimes]
+    - applications to particular spacetimes
 
 bibliography_intro: >
     The bibliography will include parts of the following references.
