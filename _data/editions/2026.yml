@@ -21,22 +21,22 @@ acknowledgments: >
 dates:
   start: 2026-07-13
   end: 2026-07-31
-  # registration:
-  #   open: 
-  #   close: 
+  registration:
+    open: 2026-06-28
+    close: 2026-07-24
 
-# special_events:
-#   - title: "Carreira e Oportunidades"
-#     date: 
-#     time:
-#       brt: 
-#       utc: 
-#   - title: "Careers and Opportunities" 
-#     date: 
-#     time:
-#       brt: 
-#       utc: 
+special_events:
+  - title: "Mesa Redonda sobre Carreira e Oportunidades"
+    date: 2026-07-31
+    time:
+      brt: "09h00"
+      utc: "12h00"
+  - title: "Panel on Careers and Opportunities" 
+    date: 2026-07-31
+    time:
+      brt: "15h00"
+      utc: "18h00"
 
-# registration:
-#   src: 
-#   embed: 
+registration:
+  src: "https://docs.google.com/forms/d/e/1FAIpQLSclwlUg_s7PopSoh6Xsyjb2nsB6GTk23XyuQcVWJzom3bWjWw/viewform?usp=header"
+  embed: "https://docs.google.com/forms/d/e/1FAIpQLSclwlUg_s7PopSoh6Xsyjb2nsB6GTk23XyuQcVWJzom3bWjWw/viewform?embedded=true"
