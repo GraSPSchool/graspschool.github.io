@@ -13,7 +13,7 @@ layout: default
         {%- endif -%}
     {%- endif -%}
     {% for minicourse in minicourses %}
-        <dt><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></dt> <dd>{% include daterange.html start=minicourse.schedule.start end=minicourse.schedule.end list=minicourse.schedule.list %} {%- if minicourse.schedule.time %} at {{ minicourse.schedule.time.brt }} (BRT)/{{ minicourse.schedule.time.utc }} (UTC){%- endif -%} </dd>
+        <dt><a href="{{ minicourse.url }}">{{ minicourse.title | truncatewords: 6  }}</a></dt> <dd>{% include daterange.html start=minicourse.schedule.start end=minicourse.schedule.end list=minicourse.schedule.list %} {%- if minicourse.schedule.time %} at {{ minicourse.schedule.time.brt }} (BRT)/{{ minicourse.schedule.time.utc }} (UTC){%- endif -%} </dd>
     {% endfor %}
     {%- for event in edition.special_events -%}
         <dt>{{ event.title }}</dt> <dd>{% include daterange.html start=event.date list=minicourse.schedule.list %} at {{ event.time.brt }} (BRT)/{{ event.time.utc }} (UTC) </dd>
