@@ -15,6 +15,7 @@ en:
   bibliography: 'Bibliography'
   resources: 'Resources'
   recordings: 'Recordings'
+  panelists: 'Panelists'
 
 pt:
   lecturer: 'Ministrante'
@@ -33,3 +34,4 @@ pt:
   bibliography: 'Bibliografia'
   resources: 'Materiais'
   recordings: 'Gravações'
+  panelists: 'Panelistas'

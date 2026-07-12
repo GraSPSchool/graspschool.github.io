@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h1>Panels</h1>
+
+{%- assign extras = site.extras | where:"year",page.year -%}
+{%- assign extras = extras | sort:"sortkey" | reverse | sort:"year" | reverse -%}
+{% for extra in extras %}
+    <h2><a href="{{ extra.url }}">{{ extra.title }}</a></h2>
+    {%- include extra_preview.html page=extra -%}
+{% endfor %}

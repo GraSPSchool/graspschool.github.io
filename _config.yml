@@ -20,6 +20,8 @@ github:
 collections:
   minicourses:
     output: true
+  extras:
+    output: true
     
 defaults:
   - scope:
@@ -30,6 +32,11 @@ defaults:
       type: minicourses
     values:
       layout: "workshop"
+      langid: "en"
+  - scope:
+      type: extras
+    values:
+      layout: "extra"
       langid: "en"
   - scope:
       path: "2024"

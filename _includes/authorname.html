@@ -1,4 +1,3 @@
-
 {%- assign author = include.author -%}
 {%- if author.website -%}
     <a href="{{ author.website }}" target="_blank">{{ author.name }}</a>
@@ -7,7 +6,7 @@
 {%- elsif author.orcid -%}
     <a href="https://orcid.org/{{ author.orcid }}" target="_blank">{{ author.name }}</a>
 {%- elsif author.lattes -%}
-    <a href="http://lattes.cnpq.br/{{ author.orcid }}" target="_blank">{{ author.name }}</a>
+    <a href="http://lattes.cnpq.br/{{ author.lattes }}" target="_blank">{{ author.name }}</a>
 {%- else -%}
     {{ author.name }}
 {%- endif -%}

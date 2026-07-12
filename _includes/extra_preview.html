@@ -1,0 +1,14 @@
+{% assign page = include.page %}
+
+{%- assign terms=site.data.minicourse_metadata[page.langid] -%}
+
+<dl class="description-simplified">
+    <dt>{{ terms.panelists }}</dt> <dd>{% include authorlist.html authorlist=page.panelists %}</dd>
+    <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
+    {%- if page.schedule -%}
+    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end list=page.schedule.list %}</dd>
+    {%- if page.schedule.time -%}
+    <dt>{{ terms.time }}</dt> <dd>{{ page.schedule.time.brt }} (BRT)/{{ page.schedule.time.utc }} (UTC)</dd>
+    {%- endif -%}
+    {%- endif -%}
+</dl>

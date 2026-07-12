@@ -1,0 +1,38 @@
+{% assign page = include.page %}
+
+{%- assign terms=site.data.minicourse_metadata[page.langid] -%}
+
+<dl class="description">
+    <dt>{{ terms.panelists }}</dt> <dd>{% include authorlist.html authorlist=page.panelists %}</dd>
+    <dt>{{ terms.language }}</dt> <dd>{{ terms.lang }}</dd>
+    {%- if page.schedule -%}
+    <dt>{{ terms.schedule }}</dt> <dd>{% include daterange.html start=page.schedule.start end=page.schedule.end list=page.schedule.list %}</dd>
+    {%- if page.schedule.time -%}
+    <dt>{{ terms.time }}</dt> <dd>{{ page.schedule.time.brt }} (BRT)/{{ page.schedule.time.utc }} (UTC)</dd>
+    {%- endif -%}
+    {%- endif -%}
+    {%- if page.overview -%}
+    <dt>{{ terms.overview }}</dt> <dd>{{ page.overview }}</dd>
+    {%- endif -%}
+    {%- if page.abstract -%}
+    <dt>{{ terms.abstract }}</dt> <dd>{{ page.abstract }}</dd>
+    {%- endif -%}
+    {%- if page.resources -%}
+    <dt>{{ terms.resources }}</dt> <dd>
+        <ul>
+        {% for resource in page.resources %}
+            {%- if resource.bibitem -%}
+            <li>{%- include bibitem.html entry=resource -%}</li>
+            {%- else -%}
+            <li><a href="{{ resource.src }}" target="_blank">{{ resource.title }}</a></li>
+            {%- endif -%}
+        {% endfor %}
+        </ul>
+    </dd>
+    {% endif %}
+    {%- if page.videorecordings -%}
+    <dt>{{ terms.recordings }}</dt> <dd>
+        <iframe src="{{ page.videorecordings.src }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </dd>
+    {%- endif -%}
+</dl>
