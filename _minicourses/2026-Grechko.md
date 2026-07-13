@@ -74,4 +74,11 @@ bibliography:
 
 prerequisites: >
     Quantum field theory and general relativity. Previous experience with conformal field theory is helpful, but not necessary.
+
+videorecordings:
+  src: https://www.youtube.com/embed/videoseries?si=YL_DD3HbO68WXzAU&amp;list=PLVkddOAhPBdc
+
+resources:
+    - title: Lecture notes (preliminary version)
+      src: /assets/2026/celestial.pdf
 ---
