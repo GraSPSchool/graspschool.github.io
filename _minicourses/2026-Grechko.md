@@ -37,7 +37,7 @@ topics:
       - "Lorentz algebra and $\\mathrm{sl}(2,\\mathbb{C})$ algebra"
       - "Conformal primary wavefunctions"
       - "Celestial basis for scattering amplitudes with examples"
-    - title: "Lecture 3. Symmesties on the celestial sphere"
+    - title: "Lecture 3. Symmetries on the celestial sphere"
       subtopics:
       - "Ward identities and soft theorems"
       - "Subleading soft-factors and superrotations"
