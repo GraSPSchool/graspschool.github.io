@@ -45,4 +45,42 @@ topics:
       subtopics: 
       - "The Bisognano–Wichman Theorem"
       - "Relative modular theory and Araki's relative entropy"
+
+bibliography:
+  - sortkey: bratteli1987OperatorAlgebrasQuantum1
+    type: book
+    author: 
+      - name: "O. Bratteli"
+      - name: "D. W. Robinson"
+    title: "Operator Algebras and Quantum Statistical Mechanics 1: C*- and W*-Algebras. Symmetry Groups. Decomposition of States"
+    date: 1987-01-01
+    publisher: Springer
+    location: Heidelberg
+    doi: "10.1007/978-3-662-02520-8"
+    series: "Theoretical and Mathematical Physics"
+  - sortkey: takesaki2002TheoryOperatorAlgebras1
+    type: book
+    author:
+      - name: "M. Takesaki"
+    title: "Theory of Operator Algebras I"
+    date: 2002-01-01
+    publisher: Springer
+    location: Berlin
+    series: "Encyclopaedia of Mathematical Sciences"
+  - sortkey: araki1999MathematicalTheoryQuantum
+    type: book
+    author:
+      - name: "H. Araki"
+    title: "Mathematical Theory of Quantum Fields"
+    date: 1999-10-21
+    publisher: Oxford University Press
+    location: Oxford
+    doi: "10.1093/oso/9780198517733.001.0001"
+  # - sortkey: correadasilva2026inpreparation
+  #   type: unpublished
+  #   author: 
+  #     - name: "Ricardo Correa da Silva"
+  #     - name: "Gandalf Lechner"
+  #     - name: "Roberto Longo"
+  #   pubstate: inpreparation
 ---
