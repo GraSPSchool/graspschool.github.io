@@ -76,11 +76,13 @@ bibliography:
     publisher: Oxford University Press
     location: Oxford
     doi: "10.1093/oso/9780198517733.001.0001"
-  # - sortkey: correadasilva2026inpreparation
-  #   type: unpublished
-  #   author: 
-  #     - name: "Ricardo Correa da Silva"
-  #     - name: "Gandalf Lechner"
-  #     - name: "Roberto Longo"
-  #   pubstate: inpreparation
+  - sortkey: correadasilva2026inpreparation
+    type: unpublished
+    # date: 2026-08-16 # expected
+    # title: 
+    author: 
+      - name: "R. Correa da Silva"
+      - name: "G. Lechner"
+      - name: "R. Longo"
+    pubstate: inpreparation
 ---
