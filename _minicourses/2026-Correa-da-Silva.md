@@ -79,7 +79,7 @@ bibliography:
   - sortkey: correadasilva2026inpreparation
     type: unpublished
     # date: 2026-08-16 # expected
-    # title: 
+    title: "Standard Subspaces and Modular Theory: general theory and applications to quantum field theory"
     author: 
       - name: "R. Correa da Silva"
       - name: "G. Lechner"
