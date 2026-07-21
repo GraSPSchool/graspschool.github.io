@@ -50,9 +50,9 @@
   {%- if link -%}
     “<a href="{{ link }}" target="_blank">{{ s.title }}</a>”.
   {%- else -%}
-    “{{ s.title }}”.
+    {%- if s.title -%}“{{ s.title }}”.{%- endif -%}
   {%- endif %}
-   {{ s.date | date: "%Y" }}. {% include eprintdata.html source=s %}
+    {%- if s.date %} {{ s.date | date: "%Y" }}.{%- endif %} {% include eprintdata.html source=s %}
 
 {%- when "tv" -%}
   {%- include hyperlink.html source=s -%}
