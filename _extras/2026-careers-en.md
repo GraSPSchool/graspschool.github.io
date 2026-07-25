@@ -23,13 +23,12 @@ panelists:
       - name: U. Nottingham
         website: https://www.gravitylaboratory.com/
         country: UK
-  - name: Clara Roldán Domínguez
-    inspire: '2919696'
-    orcid: '0009-0000-5069-3878'
+  - name: Eunice Omwoyo
+    orcid: '0000-0003-4660-8161'
     affiliation: 
-      - name: UFES
-        website: https://ppgcosmo.cosmo-ufes.org/
-        country: Brazil
+      - name: African Centre for Technology Studies
+        website: https://acts-net.org/
+        country: Kenya
   - name: Rahima Mokeddem
     lattes: '3993334728622346'
     orcid: '0000-0002-8379-5106'
