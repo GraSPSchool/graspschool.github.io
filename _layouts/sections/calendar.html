@@ -4,7 +4,7 @@ layout: default
 <h1>Calendar</h1>
 {%- assign edition = site.data.editions[page.year] -%}
 {%- assign minicourses = site.minicourses | where:"year",page.year -%}
-{%- assign extras = site.extras | where:"year",page.year -%}
+{%- assign extras = site.extras | where:"year",page.year | sort: 'sortkey' -%}
 
 <dl class="description">
     {%- if edition.dates -%}
