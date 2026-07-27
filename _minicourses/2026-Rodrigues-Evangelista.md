@@ -43,4 +43,7 @@ bibliography:
     publisher: "Dover"
     location: "Mineola, NY"
     date: 1996-01-01
+
+videorecordings:
+  src: https://www.youtube.com/embed/videoseries?si=wd98qPgOz5NW_WZe&amp;list=PLZk5_adiCQr4
 ---
