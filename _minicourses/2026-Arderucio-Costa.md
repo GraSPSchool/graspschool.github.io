@@ -103,4 +103,6 @@ bibliography:
     date: 1995-01-01
     arxiv: hep-th/9507097
 
+videorecordings:
+  src: https://www.youtube.com/embed/videoseries?si=bHP8Vs71NVCYumxT&amp;list=PLb9zumoVNuaQ
 ---

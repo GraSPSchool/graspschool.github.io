@@ -84,4 +84,7 @@ bibliography:
       - name: "G. Lechner"
       - name: "R. Longo"
     pubstate: inpreparation
+
+videorecordings:
+  src: https://www.youtube.com/embed/videoseries?si=84KMwInjljs3LmaP&amp;list=PLMJrk7-vym1E
 ---
