@@ -45,4 +45,7 @@ topics:
       - "Observatório LIGO, Virgo e KAGRA"
       - "Principais fontes de ruído: sísmico, térmico e quântico"
     - "Aula 4: Hands-On: Introdução à Análise de Dados de Ondas Gravitacionais"
+
+videorecordings:
+  src: https://www.youtube.com/embed/videoseries?si=1auNer8BSHGCDvwt&amp;list=PLDzdEz2AYqNM
 ---
