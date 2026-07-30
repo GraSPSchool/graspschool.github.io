@@ -78,6 +78,7 @@ bibliography:
     doi: "10.1093/oso/9780198517733.001.0001"
   - sortkey: correadasilva2026inpreparation
     type: unpublished
+    title: 'Standard Subspaces and Modular Theory: General theory and applications to quantum field theory'
     # date: 2026-08-16 # expected
     author: 
       - name: "R. Correa da Silva"
