@@ -3,7 +3,7 @@ layout: sections/call
 ---
 Would you like to share your perspective about gravity with the next generation of graduate students?
 
-The São Paulo School on Gravitational Physics (GraSP) is now heading to its fourth edition. It continuees to be an initiative led by early-career physicists striving to explore and promote gravity, in all of its aspects. We are now searching for new and old friends and collaborators who are interested in joining this effort in 2027. Namely, we are looking for lecturers who would like to teach an 8-hour minicourse on a topic of their choice.
+The São Paulo School on Gravitational Physics (GraSP) is now heading to its fourth edition. It continuees to be an initiative led by early-career physicists striving to explore and promote gravity, in all of its aspects. We are now searching for new and old friends and collaborators who are interested in joining this effort in 2027. Namely, we are looking for lecturers who would like to teach an online 8-hour minicourse on a topic of their choice.
 
 As GraSP's name suggests, we are looking for courses related to gravity. Luckily, this is a very far-reaching subject, and several topics can fit this description. In previous editions, we have had courses on classical general relativity, astrophysics, cosmology, quantum field theory in curved spacetimes, theoretical aspects of high-energy physics with a view toward gravity, special relativity, philosophy of relativity, among other topics. We gravitate toward any topic in which something is falling, or in which spacetime plays a key role. Gravity does not need to be relativistic, and other topics in physics that can be motivated by gravity are welcome as well. You are encouraged to be creative and suggest your ideas!
 
