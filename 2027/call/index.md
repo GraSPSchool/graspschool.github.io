@@ -1,7 +1,7 @@
 ---
 layout: sections/call
 ---
-Would you like to share your perspective about gravity with the next generation of graduate students?
+Would you like to share your knowledge and expertise in gravity with the next generation of graduate students?
 
 The São Paulo School on Gravitational Physics (GraSP) is now heading to its fourth edition. It continuees to be an initiative led by early-career physicists striving to explore and promote gravity, in all of its aspects. We are now searching for new and old friends and collaborators who are interested in joining this effort in 2027. Namely, we are looking for lecturers who would like to teach an online 8-hour minicourse on a topic of their choice.
 
