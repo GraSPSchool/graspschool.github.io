@@ -1,0 +1,15 @@
+year: '2027'
+short_name: IV GraSP
+full_name: IV São Paulo School on Gravitational Physics
+
+organizers:
+  - nick
+  - bruno
+  - caio
+  - rafael
+  - clara
+  - thiago
+
+call:
+  src: "https://docs.google.com/forms/d/e/1FAIpQLSczUoAVI-R92dR2v5ZCLX2bZS63SwWAF6iIuREIF_rkeqgN3g/viewform?usp=header"
+  embed: "https://docs.google.com/forms/d/e/1FAIpQLSczUoAVI-R92dR2v5ZCLX2bZS63SwWAF6iIuREIF_rkeqgN3g/viewform?embedded=true"

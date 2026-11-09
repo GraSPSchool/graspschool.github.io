@@ -5,7 +5,7 @@ plugins:
   - jekyll-seo-tag
 email: graspschool@gmail.com
 
-current_edition: '2026'
+current_edition: '2027'
 
 socials:
   - label: 'YouTube'
@@ -53,3 +53,8 @@ defaults:
     values:
       layout: "default"
       year: '2026'
+  - scope:
+      path: "2027"
+    values:
+      layout: "default"
+      year: '2027'
